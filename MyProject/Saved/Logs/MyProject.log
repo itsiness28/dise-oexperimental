@@ -4075,3 +4075,601 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.10-17.37.20:509][438]LogAutomationController: Ignoring very large delta of 2.76 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2026.01.10-17.37.48:957][521]Cmd: EDIT COPY
 [2026.01.10-17.37.49:137][541]Cmd: EDIT PASTE
+[2026.01.10-17.38.38:514][363]Cmd: EDIT COPY
+[2026.01.10-17.38.38:717][386]Cmd: EDIT PASTE
+[2026.01.10-17.38.41:001][648]Cmd: TRANSACTION UNDO
+[2026.01.10-17.38.41:001][648]LogEditorTransaction: Undo Pegar
+[2026.01.10-17.38.42:727][808]Cmd: TRANSACTION UNDO
+[2026.01.10-17.38.42:727][808]LogEditorTransaction: Undo Hacer clic en elementos
+[2026.01.10-17.38.47:817][374]Cmd: EDIT COPY
+[2026.01.10-17.38.47:992][393]Cmd: EDIT PASTE
+[2026.01.10-17.39.50:887][663]Cmd: EDIT COPY
+[2026.01.10-17.39.51:119][690]Cmd: EDIT PASTE
+[2026.01.10-17.41.14:064][911]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1339.185425
+[2026.01.10-17.41.14:206][928]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.10-17.41.14:206][928]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1339.318115, Update Interval: 312.220825
+[2026.01.10-17.41.17:440][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.10-17.41.17:503][242]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7430750210B402_1901004171 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/0N/VPO5LNS2U18BW274FF0GIS.PackageMetaData in its package
+[2026.01.10-17.41.17:503][242]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7430750210B402_1901003170 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/PW/LZA24CXLPBUYMAD6V9OXFA.PackageMetaData in its package
+[2026.01.10-17.41.17:503][242]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7430750210B402_1901003169 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/QV/GC4RSW5H6ZM4S8EA44R87M.PackageMetaData in its package
+[2026.01.10-17.41.17:503][242]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7430750210B402_1901002168 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/SC/O8BWE68GAS5KRYG6U3FON6.PackageMetaData in its package
+[2026.01.10-17.41.17:503][242]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7430750210B402_1901001167 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HI/XRBSMDFGHT53VHNUEXCHN4.PackageMetaData in its package
+[2026.01.10-17.41.17:503][242]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7430750210B402_1900999166 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/OU/N3BT1IU4JI6F3CEBRHADPK.PackageMetaData in its package
+[2026.01.10-17.41.17:503][242]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7430750210B402_1900999165 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/NL/ZAGT5UQWFL2IEYGUVREP69.PackageMetaData in its package
+[2026.01.10-17.41.17:503][242]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7430750210B402_1900998164 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/7D/C5V10QJJ6E2ZGKPA7WJ60J.PackageMetaData in its package
+[2026.01.10-17.41.17:503][242]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_F02F7430750210B402_1900997163 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/O5/EYET1F7F1NC4TBGTMLTMAM.PackageMetaData in its package
+[2026.01.10-17.41.17:503][242]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7430750210B402_1900996162 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/8W/EFGJ9KV2OEDTCXRSBIGFQW.PackageMetaData in its package
+[2026.01.10-17.41.17:503][242]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7430750210B402_1900995161 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/QW/5KWS2IKGV1FDM2E5FOY2YH.PackageMetaData in its package
+[2026.01.10-17.41.17:503][242]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7430750210B402_1900994160 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/4E/8NAUPRID1M4UT24UTIDKFI.PackageMetaData in its package
+[2026.01.10-17.41.17:503][242]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7430750210B402_1900994159 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/NL/GDDI6E3QJGHPBMU8PUUU01.PackageMetaData in its package
+[2026.01.10-17.41.17:503][242]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7430750210B402_1900993158 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/AK/YALXFVB0DH8VBS6U9XA45H.PackageMetaData in its package
+[2026.01.10-17.41.17:503][242]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7430750210B402_1900992157 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/LT/Z74V3K4VBUD0PM7W865C16.PackageMetaData in its package
+[2026.01.10-17.41.17:503][242]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7430750210B402_1900991156 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YH/9UCZ7XTK56FVOLUT2HSQMZ.PackageMetaData in its package
+[2026.01.10-17.41.17:503][242]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7430750210B402_1900991155 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/UQ/XOPRZ9DOWXJTJ22DP7TMCX.PackageMetaData in its package
+[2026.01.10-17.41.17:503][242]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_F02F7430750210B402_1900989154 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/KD/4R6UMW0M4M9WG19IOCPSBZ.PackageMetaData in its package
+[2026.01.10-17.41.17:503][242]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7430750210B402_1900987153 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/JH/NNIUALKNC4LSAN4LRVVD2O.PackageMetaData in its package
+[2026.01.10-17.41.17:504][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.01.10-17.41.17:524][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.10-17.41.17:548][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.01.10-17.41.17:550][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/1N/7D0FDMM7DBPHJ77SBTZGC1
+[2026.01.10-17.41.17:550][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/7D0FDMM7DBPHJ77SBTZGC15404FCB04E7F6D2DC7821981C173514E.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/1N/7D0FDMM7DBPHJ77SBTZGC1.uasset'
+[2026.01.10-17.41.17:553][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/6J/FH2XGE253OYCZ2XPTAJR9Z
+[2026.01.10-17.41.17:553][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/FH2XGE253OYCZ2XPTAJR9ZCC02843C496E4FBE76AE44AAF13EE47C.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/6J/FH2XGE253OYCZ2XPTAJR9Z.uasset'
+[2026.01.10-17.41.17:555][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/XQ/YHBDW96XX9L858U512L93H
+[2026.01.10-17.41.17:556][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/YHBDW96XX9L858U512L93HAF2CC46B4CFD6397D0036BB47370A227.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/XQ/YHBDW96XX9L858U512L93H.uasset'
+[2026.01.10-17.41.17:558][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/WF/WCD7X2SO20H1AHJTBY6R1G
+[2026.01.10-17.41.17:558][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/WCD7X2SO20H1AHJTBY6R1GDF0495E64757EC74888C9F90ADBB9850.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/WF/WCD7X2SO20H1AHJTBY6R1G.uasset'
+[2026.01.10-17.41.17:560][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/16/L8IZAAZFOHQU4HJD185UU6
+[2026.01.10-17.41.17:561][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/L8IZAAZFOHQU4HJD185UU6D556763846B3D15C24DFB9BBA2FFC248.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/16/L8IZAAZFOHQU4HJD185UU6.uasset'
+[2026.01.10-17.41.17:563][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/QB/RAPFA7090CDLLTWTD8R0CK
+[2026.01.10-17.41.17:563][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/RAPFA7090CDLLTWTD8R0CK4D2273694344AC9B53A68FB10970D5B1.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/QB/RAPFA7090CDLLTWTD8R0CK.uasset'
+[2026.01.10-17.41.17:565][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/58/PZUFIKVS2UNPTI0N9N1PFZ
+[2026.01.10-17.41.17:566][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/PZUFIKVS2UNPTI0N9N1PFZ8D6332A94FE2DA3DC66D169468CB2766.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/58/PZUFIKVS2UNPTI0N9N1PFZ.uasset'
+[2026.01.10-17.41.17:567][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/EP/Q735L7XHT3E99X97KC0J8T
+[2026.01.10-17.41.17:568][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/Q735L7XHT3E99X97KC0J8TE414D4E94EFC22007E4B3B9E2B5AC737.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/EP/Q735L7XHT3E99X97KC0J8T.uasset'
+[2026.01.10-17.41.17:569][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/JN/F2XLIRBMKPWTT6NRJFVGM3
+[2026.01.10-17.41.17:570][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/F2XLIRBMKPWTT6NRJFVGM3FB17418243754E2A537301B30B324CE7.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/JN/F2XLIRBMKPWTT6NRJFVGM3.uasset'
+[2026.01.10-17.41.17:572][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/1I/BK8Z377XO3FEDOI5T53J5L
+[2026.01.10-17.41.17:573][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/BK8Z377XO3FEDOI5T53J5L7CAACE204D7190FF69981DA54BD26116.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/1I/BK8Z377XO3FEDOI5T53J5L.uasset'
+[2026.01.10-17.41.17:574][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/FY/F1FNGSYQOPPDFMWZVHI6Q2
+[2026.01.10-17.41.17:574][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/F1FNGSYQOPPDFMWZVHI6Q2C6D16DC94DEF2F72B68477BB92FDAC75.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/FY/F1FNGSYQOPPDFMWZVHI6Q2.uasset'
+[2026.01.10-17.41.17:576][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/YJ/QC9URR8P4HZQUH1SDT6SDT
+[2026.01.10-17.41.17:577][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/QC9URR8P4HZQUH1SDT6SDT14DBCD034416FBBFA42760B7868F50F3.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/YJ/QC9URR8P4HZQUH1SDT6SDT.uasset'
+[2026.01.10-17.41.17:579][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/A9/AGFQZSBXYG51OPPJ61YQSW
+[2026.01.10-17.41.17:579][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/AGFQZSBXYG51OPPJ61YQSWE061C27B4A0ECE4839288A9813166389.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/A9/AGFQZSBXYG51OPPJ61YQSW.uasset'
+[2026.01.10-17.41.17:582][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/9B/O6FDRD29K5DGKLG6F8LG09
+[2026.01.10-17.41.17:582][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/O6FDRD29K5DGKLG6F8LG09C0C7D95949F5246BF4BFFF923F253C0E.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/9B/O6FDRD29K5DGKLG6F8LG09.uasset'
+[2026.01.10-17.41.17:583][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/VB/TW50NAT1Y17N1W7OHSDS7Z
+[2026.01.10-17.41.17:584][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/TW50NAT1Y17N1W7OHSDS7Z7729294B4B8567DE4FCF09A203D8FAFB.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/VB/TW50NAT1Y17N1W7OHSDS7Z.uasset'
+[2026.01.10-17.41.17:586][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/48/PV1DPRQ1M9CYEFIDMR3CQE
+[2026.01.10-17.41.17:587][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/PV1DPRQ1M9CYEFIDMR3CQE1AAB4ACD40EE7696A363B782197BD457.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/48/PV1DPRQ1M9CYEFIDMR3CQE.uasset'
+[2026.01.10-17.41.17:589][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/X4/KSHTLYODO6KORCSVPHYFZY
+[2026.01.10-17.41.17:589][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/KSHTLYODO6KORCSVPHYFZYFBCEBB3E4593A1C78AE44DB4DD872374.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/X4/KSHTLYODO6KORCSVPHYFZY.uasset'
+[2026.01.10-17.41.17:591][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/MU/PACPJ1G73C32640PZE47TC
+[2026.01.10-17.41.17:593][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/PACPJ1G73C32640PZE47TCF3D9F4334569DC40F4E8C99C7B350A2B.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/MU/PACPJ1G73C32640PZE47TC.uasset'
+[2026.01.10-17.41.17:595][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/QT/QTEMQZ3592X1IJ1QKVBR1E
+[2026.01.10-17.41.17:597][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/QTEMQZ3592X1IJ1QKVBR1ED90C95C44DF6D625762D5984780C9A26.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/QT/QTEMQZ3592X1IJ1QKVBR1E.uasset'
+[2026.01.10-17.41.17:605][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/O5/8LIU6M4Y0NWDOGBW31YRE2
+[2026.01.10-17.41.17:605][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/8LIU6M4Y0NWDOGBW31YRE2C3183B3C49A4AC932E8458BF8FF5F44F.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/O5/8LIU6M4Y0NWDOGBW31YRE2.uasset'
+[2026.01.10-17.41.17:605][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XU/LJZD21ZKQG4Z3EZMABATU5
+[2026.01.10-17.41.17:605][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/LJZD21ZKQG4Z3EZMABATU50BB195A548911D822EBC68ABD357B57F.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XU/LJZD21ZKQG4Z3EZMABATU5.uasset'
+[2026.01.10-17.41.17:623][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/LK/QQQTK8ZCIR2HUGIV6MXRJD
+[2026.01.10-17.41.17:623][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/QQQTK8ZCIR2HUGIV6MXRJDA0C19D9F4204E911D3D524B478D1820F.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/LK/QQQTK8ZCIR2HUGIV6MXRJD.uasset'
+[2026.01.10-17.41.17:623][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/S6/XSXS3AX4LKG0G9MPR8LTC4
+[2026.01.10-17.41.17:623][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/XSXS3AX4LKG0G9MPR8LTC43E80FFCD484E6CE0F09B969798974520.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/S6/XSXS3AX4LKG0G9MPR8LTC4.uasset'
+[2026.01.10-17.41.17:623][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/FX/U9HS2RRTLQ47VYSA04OM16
+[2026.01.10-17.41.17:623][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/U9HS2RRTLQ47VYSA04OM16ADC7C2FC48FAEE3040C114B34FAE71DA.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/FX/U9HS2RRTLQ47VYSA04OM16.uasset'
+[2026.01.10-17.41.17:623][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/A0/6O2RJMGEUMELXGWX3T75EP
+[2026.01.10-17.41.17:623][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/6O2RJMGEUMELXGWX3T75EP6003A9F041A612A5BFDE8A89919A4E5D.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/A0/6O2RJMGEUMELXGWX3T75EP.uasset'
+[2026.01.10-17.41.17:623][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/HF/VLP9PNBV0NXWSQGBYVDIH1
+[2026.01.10-17.41.17:623][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/VLP9PNBV0NXWSQGBYVDIH15C9D2BFE410BF1930FD8E2A586D6BF50.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/HF/VLP9PNBV0NXWSQGBYVDIH1.uasset'
+[2026.01.10-17.41.17:623][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/PP/XCCAUSFZXA238YOVHNXD52
+[2026.01.10-17.41.17:630][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/XCCAUSFZXA238YOVHNXD5210378279464940D2171278BC3DC831D8.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/PP/XCCAUSFZXA238YOVHNXD52.uasset'
+[2026.01.10-17.41.17:630][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/DN/F8RSDODZ7YXLIVNM42JCI8
+[2026.01.10-17.41.17:630][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/F8RSDODZ7YXLIVNM42JCI895C4D32D465F97B47289BF82F531E182.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/DN/F8RSDODZ7YXLIVNM42JCI8.uasset'
+[2026.01.10-17.41.17:630][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AQ/W6B8RRZ8OWON02FW83MD2C
+[2026.01.10-17.41.17:630][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/W6B8RRZ8OWON02FW83MD2C5BAD5D6649C79D58E2FC14A30A973C0F.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AQ/W6B8RRZ8OWON02FW83MD2C.uasset'
+[2026.01.10-17.41.17:637][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/1T/1PWJ9BEJPIVA8JM7GYEBDR
+[2026.01.10-17.41.17:637][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/1PWJ9BEJPIVA8JM7GYEBDRE3E631FD43B9C0C3C1629CBEEAA1DC33.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/1T/1PWJ9BEJPIVA8JM7GYEBDR.uasset'
+[2026.01.10-17.41.17:676][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/7H/UHNYGX8X27A0XTMJHEBWRW
+[2026.01.10-17.41.17:676][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/UHNYGX8X27A0XTMJHEBWRWC94676304778C8B194236FAD1FC6D6D7.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/7H/UHNYGX8X27A0XTMJHEBWRW.uasset'
+[2026.01.10-17.41.17:680][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/BB/TM92PG80NUUF5V4SF2EXX7
+[2026.01.10-17.41.17:680][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/TM92PG80NUUF5V4SF2EXX795F1BD9F4AC2714EA9ED4584B91B7A29.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/BB/TM92PG80NUUF5V4SF2EXX7.uasset'
+[2026.01.10-17.41.17:682][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/9D/RCDHZFYQCZ0H8IGYBQFFI5
+[2026.01.10-17.41.17:682][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/RCDHZFYQCZ0H8IGYBQFFI5F37C021441EC820D3A6FB6ADED928F21.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/9D/RCDHZFYQCZ0H8IGYBQFFI5.uasset'
+[2026.01.10-17.41.17:686][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/43/44ZZE0DOQZZMLXB3DAWB8X
+[2026.01.10-17.41.17:686][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/44ZZE0DOQZZMLXB3DAWB8X433628D54171E173182667B129621003.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/43/44ZZE0DOQZZMLXB3DAWB8X.uasset'
+[2026.01.10-17.41.17:689][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/Z3/52JZDMGWF6X1KG64C7ZZYE
+[2026.01.10-17.41.17:689][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/52JZDMGWF6X1KG64C7ZZYE8A3C95DC4C85AB75746999A360D0FFFB.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/Z3/52JZDMGWF6X1KG64C7ZZYE.uasset'
+[2026.01.10-17.41.17:693][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/5L/8MIYD7HWWFEKGZ06D1SZ4P
+[2026.01.10-17.41.17:693][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/8MIYD7HWWFEKGZ06D1SZ4P39F5893846A7B3D772E6639A4A78FFF2.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/5L/8MIYD7HWWFEKGZ06D1SZ4P.uasset'
+[2026.01.10-17.41.17:695][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/5C/KNHDRCEKT9YMXFNULKQITG
+[2026.01.10-17.41.17:695][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/KNHDRCEKT9YMXFNULKQITG57E373804F688DFACCF50E8ABA21B6C6.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/5C/KNHDRCEKT9YMXFNULKQITG.uasset'
+[2026.01.10-17.41.17:697][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/TE/G1D82RL53LD2M2TJT7E9NX
+[2026.01.10-17.41.17:697][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/G1D82RL53LD2M2TJT7E9NX5C6A64C44DA4D5A73773BAB378F8AA85.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/TE/G1D82RL53LD2M2TJT7E9NX.uasset'
+[2026.01.10-17.41.17:699][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/Z1/96U8DIN582W36I8QWKERYF
+[2026.01.10-17.41.17:699][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/96U8DIN582W36I8QWKERYFB5ACCC8A4F52304017F43387E2D3FA09.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/Z1/96U8DIN582W36I8QWKERYF.uasset'
+[2026.01.10-17.41.17:701][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/JI/3KMF1DBS2YT93XO0PKMYD7
+[2026.01.10-17.41.17:701][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/3KMF1DBS2YT93XO0PKMYD7E4EA04754E659FB5AB8D68AE3D86B0DF.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/JI/3KMF1DBS2YT93XO0PKMYD7.uasset'
+[2026.01.10-17.41.17:704][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/29/D8BSA1JV0X7KJS4QA5W4NM
+[2026.01.10-17.41.17:704][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/D8BSA1JV0X7KJS4QA5W4NME2D25AE5437EF901B44572B0D2412C6D.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/29/D8BSA1JV0X7KJS4QA5W4NM.uasset'
+[2026.01.10-17.41.17:706][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/KR/TSRWALLSIP79RNC2APBKOI
+[2026.01.10-17.41.17:706][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/TSRWALLSIP79RNC2APBKOI6375352E4CA972F7A20B12BE37EE79F1.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/KR/TSRWALLSIP79RNC2APBKOI.uasset'
+[2026.01.10-17.41.17:707][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/WZ/HWLZLDS71B6NLEPHYOJFL8
+[2026.01.10-17.41.17:707][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/HWLZLDS71B6NLEPHYOJFL838A694F349533599DADB44BAF9071C02.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/WZ/HWLZLDS71B6NLEPHYOJFL8.uasset'
+[2026.01.10-17.41.17:710][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/4W/MCN99SLXGIBCZDK18CPVWQ
+[2026.01.10-17.41.17:710][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/MCN99SLXGIBCZDK18CPVWQ94D02FD048CF572E342027845714404A.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/4W/MCN99SLXGIBCZDK18CPVWQ.uasset'
+[2026.01.10-17.41.17:713][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/J9/KRJVTOXCHSZ3DPY95XDND1
+[2026.01.10-17.41.17:713][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/KRJVTOXCHSZ3DPY95XDND19F98031C41AED2A8429B51B0D0006B1B.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/J9/KRJVTOXCHSZ3DPY95XDND1.uasset'
+[2026.01.10-17.41.17:715][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/VG/KCQUVOG3Z3KXPNSFD2QXCJ
+[2026.01.10-17.41.17:715][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/KCQUVOG3Z3KXPNSFD2QXCJ96C36FA847D9C9BA1A80D0B0B0DDE6D1.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/VG/KCQUVOG3Z3KXPNSFD2QXCJ.uasset'
+[2026.01.10-17.41.17:718][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/2E/ZF3LCBU30JKAYT0BYIO56R
+[2026.01.10-17.41.17:718][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/ZF3LCBU30JKAYT0BYIO56RB3144EEE484A4B09EE32468204A3C12A.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/2E/ZF3LCBU30JKAYT0BYIO56R.uasset'
+[2026.01.10-17.41.17:720][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/5H/S3QTCGPXOGHDPY4BTEB9GP
+[2026.01.10-17.41.17:720][242]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/S3QTCGPXOGHDPY4BTEB9GP0C6B8DCA4EB4121B6C35138A2C59BC1F.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/5H/S3QTCGPXOGHDPY4BTEB9GP.uasset'
+[2026.01.10-17.41.17:740][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 300.230 ms (total: 2.59 sec)
+[2026.01.10-17.41.17:776][242]LogContentValidation: Display: Starting to validate 48 assets
+[2026.01.10-17.41.17:777][242]LogContentValidation: Enabled validators:
+[2026.01.10-17.41.17:777][242]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.10-17.41.17:777][242]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.10-17.41.17:777][242]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.10-17.41.17:777][242]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.10-17.41.17:777][242]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.10-17.41.17:777][242]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.10-17.41.17:777][242]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validando recurso
+[2026.01.10-17.41.17:816][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.01.10-17.41.19:629][407]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.01.10-17.41.30:982][264]LogStreaming: Display: FlushAsyncLoading(1255): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.10-17.41.41:379][ 38]LogStreaming: Display: FlushAsyncLoading(1257): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.10-17.41.51:295][841]LogStaticMesh: Display: Malla estática de construcción SM_Cube (Estimación de memoria necesaria: 0.029306 MB)...
+[2026.01.10-17.41.51:320][841]LogStaticMesh: Built static mesh [0.03s] /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2026.01.10-17.41.51:597][841]LogStreaming: Display: FlushAsyncLoading(1259): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.10-17.41.52:658][848]LogMeshUtilities: Finished distance field build in 1.2s - 21x21x21 sparse distance field, 0.0Mb total, 0.0Mb always loaded, 100% occupied, 4 triangles, SM_Cube
+[2026.01.10-17.41.56:945][237]Cmd: TRANSACTION UNDO
+[2026.01.10-17.41.56:945][237]LogEditorTransaction: Undo Pincelada
+[2026.01.10-17.41.57:329][249]Cmd: TRANSACTION UNDO
+[2026.01.10-17.41.57:329][249]LogEditorTransaction: Undo Pincelada
+[2026.01.10-17.42.08:434][290]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.InternalToolFrameworkActor_0.DynamicMeshComponent_0) Not registered. Aborting.
+[2026.01.10-17.42.11:466][540]Cmd: EDIT COPY
+[2026.01.10-17.42.11:676][554]Cmd: EDIT PASTE
+[2026.01.10-17.42.30:334][ 61]Cmd: DELETE
+[2026.01.10-17.42.30:334][ 61]Cmd: ACTOR DELETE
+[2026.01.10-17.42.30:344][ 61]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.10-17.42.30:379][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.01.10-17.42.30:381][ 61]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2026.01.10-17.42.33:241][286]Cmd: TRANSACTION UNDO
+[2026.01.10-17.42.33:241][286]LogEditorTransaction: Undo Eliminar elementos
+[2026.01.10-17.42.33:703][297]Cmd: TRANSACTION UNDO
+[2026.01.10-17.42.33:703][297]LogEditorTransaction: Undo Hacer clic en elementos
+[2026.01.10-17.42.33:971][312]Cmd: TRANSACTION UNDO
+[2026.01.10-17.42.33:971][312]LogEditorTransaction: Undo Hacer clic en elementos
+[2026.01.10-17.42.34:281][330]Cmd: TRANSACTION UNDO
+[2026.01.10-17.42.34:281][330]LogEditorTransaction: Undo Hacer clic en elementos
+[2026.01.10-17.42.34:550][347]Cmd: TRANSACTION UNDO
+[2026.01.10-17.42.34:550][347]LogEditorTransaction: Undo Hacer clic en elementos
+[2026.01.10-17.42.34:751][362]Cmd: TRANSACTION UNDO
+[2026.01.10-17.42.34:751][362]LogEditorTransaction: Undo Mover elementos
+[2026.01.10-17.42.35:028][380]Cmd: TRANSACTION UNDO
+[2026.01.10-17.42.35:028][380]LogEditorTransaction: Undo Rotar elementos
+[2026.01.10-17.42.35:297][397]Cmd: TRANSACTION UNDO
+[2026.01.10-17.42.35:297][397]LogEditorTransaction: Undo Mover elementos
+[2026.01.10-17.42.35:584][416]Cmd: TRANSACTION UNDO
+[2026.01.10-17.42.35:584][416]LogEditorTransaction: Undo Pegar componentes
+[2026.01.10-17.42.35:999][445]Cmd: TRANSACTION UNDO
+[2026.01.10-17.42.35:999][445]LogEditorTransaction: Undo Deformar malla
+[2026.01.10-17.42.36:048][445]LogStaticMesh: Display: Malla estática de construcción SM_Cube (Estimación de memoria necesaria: 0.026302 MB)...
+[2026.01.10-17.42.36:050][445]LogStaticMesh: Built static mesh [0.00s] /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2026.01.10-17.42.36:874][506]Cmd: TRANSACTION UNDO
+[2026.01.10-17.42.36:874][506]LogEditorTransaction: Undo Hacer clic en elementos
+[2026.01.10-17.42.37:554][540]Cmd: TRANSACTION UNDO
+[2026.01.10-17.42.37:554][540]LogEditorTransaction: Undo Hacer clic en elementos
+[2026.01.10-17.42.40:766][792]Cmd: EDIT COPY
+[2026.01.10-17.42.40:949][808]Cmd: EDIT PASTE
+[2026.01.10-17.42.59:163][338]LogShaderCompilers: Display: ================================================
+[2026.01.10-17.42.59:163][338]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.10-17.42.59:163][338]LogShaderCompilers: Display: Total job queries 179, among them cache hits 19 (10.61%), DDC hits 143 (79.89%), Duplicates 2 (1.12%)
+[2026.01.10-17.42.59:163][338]LogShaderCompilers: Display: Tracking 158 distinct input hashes that result in 147 distinct outputs (93.04%)
+[2026.01.10-17.42.59:170][338]LogShaderCompilers: Display: RAM used: 119,13 KiB of 819,20 MiB budget. Usage: 0.01%
+[2026.01.10-17.42.59:170][338]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.10-17.42.59:170][338]LogShaderCompilers: Display: Shaders Compiled: 15
+[2026.01.10-17.42.59:170][338]LogShaderCompilers: Display: Jobs assigned 15, completed 15 (100%)
+[2026.01.10-17.42.59:170][338]LogShaderCompilers: Display: Average time worker was idle: 6.31 s
+[2026.01.10-17.42.59:170][338]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.11 s
+[2026.01.10-17.42.59:170][338]LogShaderCompilers: Display: Job execution time: average 2.22 s, max 4.01 s
+[2026.01.10-17.42.59:170][338]LogShaderCompilers: Display: Job life time (pending + execution): average 2.30 s, max 4.11
+[2026.01.10-17.42.59:170][338]LogShaderCompilers: Display: Shader code size: average 7,748 KiB, min 2,691 KiB, max 12,18 KiB
+[2026.01.10-17.42.59:170][338]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.63 s
+[2026.01.10-17.42.59:170][338]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.01.10-17.42.59:170][338]LogShaderCompilers: Display: Jobs were issued in 15 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.10-17.42.59:170][338]LogShaderCompilers: Display: Average processing rate: 2.66 jobs/sec
+[2026.01.10-17.42.59:170][338]LogShaderCompilers: Display: Total thread time: 11,673 s
+[2026.01.10-17.42.59:170][338]LogShaderCompilers: Display: Total thread preprocess time: 2,551 s
+[2026.01.10-17.42.59:170][338]LogShaderCompilers: Display: Percentage time preprocessing: 21.85%
+[2026.01.10-17.42.59:170][338]LogShaderCompilers: Display: Effective parallelization: 2.07 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.01.10-17.42.59:178][338]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.10-17.42.59:178][338]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.31 sec, max 1.40 sec, min 1.22 sec)
+[2026.01.10-17.42.59:178][338]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.85 sec, max 0.94 sec, min 0.80 sec)
+[2026.01.10-17.42.59:178][338]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2026.01.10-17.42.59:178][338]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    2 times, average 0.67 sec, max 0.74 sec, min 0.60 sec)
+[2026.01.10-17.42.59:178][338]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2026.01.10-17.42.59:178][338]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.10-17.42.59:178][338]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 22.45% of total time (compiled    2 times, average 1.31 sec, max 1.40 sec, min 1.22 sec)
+[2026.01.10-17.42.59:178][338]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.90% of total time (compiled    3 times, average 0.85 sec, max 0.94 sec, min 0.80 sec)
+[2026.01.10-17.42.59:178][338]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.42% of total time (compiled    3 times, average 0.60 sec, max 0.64 sec, min 0.54 sec)
+[2026.01.10-17.42.59:178][338]LogShaderCompilers: Display:                                                  FHitProxyPS - 11.48% of total time (compiled    2 times, average 0.67 sec, max 0.74 sec, min 0.60 sec)
+[2026.01.10-17.42.59:178][338]LogShaderCompilers: Display:                                                  FHitProxyVS - 10.04% of total time (compiled    2 times, average 0.59 sec, max 0.63 sec, min 0.55 sec)
+[2026.01.10-17.42.59:178][338]LogShaderCompilers: Display: === Material stats ===
+[2026.01.10-17.42.59:178][338]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.10-17.42.59:178][338]LogShaderCompilers: Display: Materials Translated:    132
+[2026.01.10-17.42.59:178][338]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2026.01.10-17.42.59:178][338]LogShaderCompilers: Display: Material Translation Only: 0.05 s (47%)
+[2026.01.10-17.42.59:178][338]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.01.10-17.42.59:178][338]LogShaderCompilers: Display: Material Cache Hits: 26 (20%)
+[2026.01.10-17.42.59:178][338]LogShaderCompilers: Display: ================================================
+[2026.01.10-17.43.05:492][817]Cmd: EDIT COPY
+[2026.01.10-17.43.05:803][843]Cmd: EDIT PASTE
+[2026.01.10-17.43.35:797][212]Cmd: DELETE
+[2026.01.10-17.43.35:797][212]Cmd: ACTOR DELETE
+[2026.01.10-17.43.35:805][212]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.10-17.43.35:831][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.01.10-17.43.35:832][212]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2026.01.10-17.44.27:381][136]Cmd: EDIT COPY
+[2026.01.10-17.44.27:561][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.01.10-17.44.27:567][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/2H/2LIPMQ1QDEEIAM5UYMGX5A_Auto2
+[2026.01.10-17.44.27:567][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/2LIPMQ1QDEEIAM5UYMGX5A_Auto272826720443F187B4EFF088F49926051.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/2H/2LIPMQ1QDEEIAM5UYMGX5A_Auto2.uasset'
+[2026.01.10-17.44.27:570][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/72/XY7O5EG0ZZ1NCVREAYL5NQ_Auto2
+[2026.01.10-17.44.27:570][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/XY7O5EG0ZZ1NCVREAYL5NQ_Auto27F0ADAF148EE84CAA47F5689676679BB.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/72/XY7O5EG0ZZ1NCVREAYL5NQ_Auto2.uasset'
+[2026.01.10-17.44.27:573][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM_Auto2
+[2026.01.10-17.44.27:574][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/MG6FOV6QQX2CAZCGF7O9MM_Auto240708F2943CE2F349F1C4BB1053F5BF3.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM_Auto2.uasset'
+[2026.01.10-17.44.27:576][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/7A/5T1GJVE2BOUHWJJZEMGDZ4_Auto2
+[2026.01.10-17.44.27:576][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/5T1GJVE2BOUHWJJZEMGDZ4_Auto2CFFB745947DA28447D68588698D05C8F.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/7A/5T1GJVE2BOUHWJJZEMGDZ4_Auto2.uasset'
+[2026.01.10-17.44.27:595][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/TC/QOHIJQP2QFFVJYZVU4T4OO_Auto2
+[2026.01.10-17.44.27:595][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/QOHIJQP2QFFVJYZVU4T4OO_Auto2A7E6EA064292A79A143825A6982B1B6E.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/TC/QOHIJQP2QFFVJYZVU4T4OO_Auto2.uasset'
+[2026.01.10-17.44.27:597][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/I1/XIPLPR9AV8VC1TFCQGBRGJ_Auto2
+[2026.01.10-17.44.27:597][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/XIPLPR9AV8VC1TFCQGBRGJ_Auto27A29CB2446852AA433A48D8BBEF632C7.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/I1/XIPLPR9AV8VC1TFCQGBRGJ_Auto2.uasset'
+[2026.01.10-17.44.27:600][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/JB/3DPN1XR6BOOVJ50BVJL7OW_Auto2
+[2026.01.10-17.44.27:600][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/3DPN1XR6BOOVJ50BVJL7OW_Auto2C5BDE4D54DFCBF34C69D9B81627A6E4E.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/JB/3DPN1XR6BOOVJ50BVJL7OW_Auto2.uasset'
+[2026.01.10-17.44.27:601][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DG/UC3Q02V2I56X4AAROXJUML_Auto2
+[2026.01.10-17.44.27:603][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/UC3Q02V2I56X4AAROXJUML_Auto2AE15C4D247418D8CBABD25BE0C25D49F.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DG/UC3Q02V2I56X4AAROXJUML_Auto2.uasset'
+[2026.01.10-17.44.27:617][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/H1/KYJU9GM0EQMF70C6YK9937_Auto2
+[2026.01.10-17.44.27:617][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/KYJU9GM0EQMF70C6YK9937_Auto2BA881DE840298136BE37379A02444374.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/H1/KYJU9GM0EQMF70C6YK9937_Auto2.uasset'
+[2026.01.10-17.44.27:619][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/27/BAFGN5ENIXWNSDH8PQM44Q_Auto2
+[2026.01.10-17.44.27:619][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/BAFGN5ENIXWNSDH8PQM44Q_Auto203CC52F44C80A5B06DC6169E853AF1DB.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/27/BAFGN5ENIXWNSDH8PQM44Q_Auto2.uasset'
+[2026.01.10-17.44.27:622][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R_Auto2
+[2026.01.10-17.44.27:622][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/2XZ3RUK0LFB63FVNQE7P5R_Auto21C98BE3E4B6EF6CDB7C8F4A06A1BEB16.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R_Auto2.uasset'
+[2026.01.10-17.44.27:624][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/BP/YVGL1IRMBU6FI33XZQT2S0_Auto2
+[2026.01.10-17.44.27:625][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/YVGL1IRMBU6FI33XZQT2S0_Auto2427061C94FB7D3ABBDBE4CA3D9BDCB5A.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/BP/YVGL1IRMBU6FI33XZQT2S0_Auto2.uasset'
+[2026.01.10-17.44.27:627][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB_Auto2
+[2026.01.10-17.44.27:627][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/1ZJ54FMA0DAL3I2Q8RFAIB_Auto2D124750A4D2BD0BF8D8896BDF607BA42.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB_Auto2.uasset'
+[2026.01.10-17.44.27:629][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3O/RKFG8PQNEX34KODMXE9J0R_Auto2
+[2026.01.10-17.44.27:629][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/RKFG8PQNEX34KODMXE9J0R_Auto26AC40B1A434C79CA91770DB91E2312FC.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3O/RKFG8PQNEX34KODMXE9J0R_Auto2.uasset'
+[2026.01.10-17.44.27:631][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Y6/HC1HA1K7E9DWXEGEMYIWD4_Auto2
+[2026.01.10-17.44.27:631][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/HC1HA1K7E9DWXEGEMYIWD4_Auto29D5319C243760F125FE61BA8D8F827B4.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Y6/HC1HA1K7E9DWXEGEMYIWD4_Auto2.uasset'
+[2026.01.10-17.44.27:633][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/89/DUO3V8JUV1US5U6AC0EZ2G_Auto2
+[2026.01.10-17.44.27:633][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/DUO3V8JUV1US5U6AC0EZ2G_Auto28E1757144FC5E41D610F77B93B1FA7C9.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/89/DUO3V8JUV1US5U6AC0EZ2G_Auto2.uasset'
+[2026.01.10-17.44.27:635][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/02/F6J2XDJUU78JD0UL5MMO6Y_Auto2
+[2026.01.10-17.44.27:635][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/F6J2XDJUU78JD0UL5MMO6Y_Auto2837C5A4144228B4BF2D4F6AE431C330A.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/02/F6J2XDJUU78JD0UL5MMO6Y_Auto2.uasset'
+[2026.01.10-17.44.27:637][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/57/UWTGXK4D9TINO2CY7O9OWG_Auto2
+[2026.01.10-17.44.27:637][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/UWTGXK4D9TINO2CY7O9OWG_Auto22BABFDA0428429F0DD6439B1E453E7B6.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/57/UWTGXK4D9TINO2CY7O9OWG_Auto2.uasset'
+[2026.01.10-17.44.27:638][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/KG/WPQFS3SRV25LW99ANVKFKD_Auto2
+[2026.01.10-17.44.27:639][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/WPQFS3SRV25LW99ANVKFKD_Auto23A9EF1744FA80F77BDB0519C9E977D0B.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/KG/WPQFS3SRV25LW99ANVKFKD_Auto2.uasset'
+[2026.01.10-17.44.27:640][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/1N/7D0FDMM7DBPHJ77SBTZGC1_Auto2
+[2026.01.10-17.44.27:640][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/7D0FDMM7DBPHJ77SBTZGC1_Auto24F5B3EDF44A144A680D0A7BD91F99A93.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/1N/7D0FDMM7DBPHJ77SBTZGC1_Auto2.uasset'
+[2026.01.10-17.44.27:642][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/JE/T827MDP8PF5GKU924I3WLL_Auto2
+[2026.01.10-17.44.27:642][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/T827MDP8PF5GKU924I3WLL_Auto29636CBFB4810CCAC01FD5AA9C89B92F8.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/JE/T827MDP8PF5GKU924I3WLL_Auto2.uasset'
+[2026.01.10-17.44.27:645][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/56/DN7LPC2UB1DOPH8JGTUHMV_Auto2
+[2026.01.10-17.44.27:645][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/DN7LPC2UB1DOPH8JGTUHMV_Auto28F652D2D47F9D4F0785A9698AB17BBC2.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/56/DN7LPC2UB1DOPH8JGTUHMV_Auto2.uasset'
+[2026.01.10-17.44.27:647][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/LF/WM0S8ZFV03K1A2TDI5NSMB_Auto2
+[2026.01.10-17.44.27:647][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/WM0S8ZFV03K1A2TDI5NSMB_Auto26A3169C6404C2D230D644C90B068E5EB.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/LF/WM0S8ZFV03K1A2TDI5NSMB_Auto2.uasset'
+[2026.01.10-17.44.27:650][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/TP/8GGZDJ3CBD6DBDZ9J2IEP0_Auto2
+[2026.01.10-17.44.27:650][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/8GGZDJ3CBD6DBDZ9J2IEP0_Auto24BF8BBE54F8788E18ACFE9B456A11AD7.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/TP/8GGZDJ3CBD6DBDZ9J2IEP0_Auto2.uasset'
+[2026.01.10-17.44.27:655][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/Z8/2X1PEEI29PALDFF0AKK3JK_Auto2
+[2026.01.10-17.44.27:655][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/2X1PEEI29PALDFF0AKK3JK_Auto239DB5624441CB234F0D2D8B57DF08FF8.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/Z8/2X1PEEI29PALDFF0AKK3JK_Auto2.uasset'
+[2026.01.10-17.44.27:657][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/6D/XH47616E075534YNUGBWSR_Auto2
+[2026.01.10-17.44.27:657][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/XH47616E075534YNUGBWSR_Auto25C4FDAA842B77FB994FE06A9CBB9561D.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/6D/XH47616E075534YNUGBWSR_Auto2.uasset'
+[2026.01.10-17.44.27:659][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S_Auto2
+[2026.01.10-17.44.27:659][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/YUZ9741T50O1SYRX90OB0S_Auto2432694C74B9B010E609C6DA5D31C1C31.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S_Auto2.uasset'
+[2026.01.10-17.44.27:662][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/WX/C0BCUE6O8S446ZAYKR69UU_Auto2
+[2026.01.10-17.44.27:662][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/C0BCUE6O8S446ZAYKR69UU_Auto243BA0AF2400CB70E51462A8FB875A7D9.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/WX/C0BCUE6O8S446ZAYKR69UU_Auto2.uasset'
+[2026.01.10-17.44.27:663][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/4D/D3HH05UQRS5QBE0QMTLPBU_Auto2
+[2026.01.10-17.44.27:663][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/D3HH05UQRS5QBE0QMTLPBU_Auto230F016AE4B6C31530D250185B8391523.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/4D/D3HH05UQRS5QBE0QMTLPBU_Auto2.uasset'
+[2026.01.10-17.44.27:665][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/FV/CE0TMIMRM12B8RTJ3JK287_Auto2
+[2026.01.10-17.44.27:665][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/CE0TMIMRM12B8RTJ3JK287_Auto2545C2C87483369EF63576580AAA65023.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/FV/CE0TMIMRM12B8RTJ3JK287_Auto2.uasset'
+[2026.01.10-17.44.27:667][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/QV/6WBSCRT2JENZSOQF72HJ4O_Auto2
+[2026.01.10-17.44.27:667][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/6WBSCRT2JENZSOQF72HJ4O_Auto2C2AC00E04B6F899F0C1484A317712BF2.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/QV/6WBSCRT2JENZSOQF72HJ4O_Auto2.uasset'
+[2026.01.10-17.44.27:669][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/KH/039W3XYLR9YAQD3USTXYD6_Auto2
+[2026.01.10-17.44.27:669][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/039W3XYLR9YAQD3USTXYD6_Auto20697814847FEBD8B7740EBA52F82BB13.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/KH/039W3XYLR9YAQD3USTXYD6_Auto2.uasset'
+[2026.01.10-17.44.27:671][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/XI/YPUU5LXPRX7BA0ARGX111M_Auto2
+[2026.01.10-17.44.27:671][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/YPUU5LXPRX7BA0ARGX111M_Auto232A088124D70787330744BBF2A6CB7FA.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/XI/YPUU5LXPRX7BA0ARGX111M_Auto2.uasset'
+[2026.01.10-17.44.27:673][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/5O/YAR9PBTQXV39HBWJVEXLNC_Auto2
+[2026.01.10-17.44.27:673][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/YAR9PBTQXV39HBWJVEXLNC_Auto220D62B97423ADF0525F4529141A60E74.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/5O/YAR9PBTQXV39HBWJVEXLNC_Auto2.uasset'
+[2026.01.10-17.44.27:675][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/6N/3J83LXKVN0YB4K95AELBBN_Auto2
+[2026.01.10-17.44.27:675][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/3J83LXKVN0YB4K95AELBBN_Auto2BA57E0224B22067948777292B87275DC.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/6N/3J83LXKVN0YB4K95AELBBN_Auto2.uasset'
+[2026.01.10-17.44.27:679][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/N3/4UHUQ9042U9KAHVUMVMMD4_Auto2
+[2026.01.10-17.44.27:679][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/4UHUQ9042U9KAHVUMVMMD4_Auto24D1F1DFA40401D700FFAA2AD70B92BB1.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/N3/4UHUQ9042U9KAHVUMVMMD4_Auto2.uasset'
+[2026.01.10-17.44.27:681][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/J2/U6VR1U7VROCSE2CMQG7ENY_Auto2
+[2026.01.10-17.44.27:681][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/U6VR1U7VROCSE2CMQG7ENY_Auto2FA07B43A4835F9BBE6A503B040373987.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/J2/U6VR1U7VROCSE2CMQG7ENY_Auto2.uasset'
+[2026.01.10-17.44.27:683][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L8/EC3UYW8EAFBURMG0049ACO_Auto2
+[2026.01.10-17.44.27:683][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/EC3UYW8EAFBURMG0049ACO_Auto2467E2B26461F53611A0EAEAE2A2CA3D5.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L8/EC3UYW8EAFBURMG0049ACO_Auto2.uasset'
+[2026.01.10-17.44.27:686][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/MK/C41H5W2REC2D0JXCTJ8OS0_Auto2
+[2026.01.10-17.44.27:686][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/C41H5W2REC2D0JXCTJ8OS0_Auto20E1994884D70AA44D5FDA6BE48102BC2.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/MK/C41H5W2REC2D0JXCTJ8OS0_Auto2.uasset'
+[2026.01.10-17.44.27:688][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/MX/JUQXN23P25BVB9DHU6MCK6_Auto2
+[2026.01.10-17.44.27:688][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/JUQXN23P25BVB9DHU6MCK6_Auto2A748C6F44CA9B9D69B88919BFE59D8B9.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/MX/JUQXN23P25BVB9DHU6MCK6_Auto2.uasset'
+[2026.01.10-17.44.27:690][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/IW/KXWADBXQ2J9AVWL5CQYKTX_Auto2
+[2026.01.10-17.44.27:690][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/KXWADBXQ2J9AVWL5CQYKTX_Auto2E5797C1040E0241BB82D8CA3804378BC.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/IW/KXWADBXQ2J9AVWL5CQYKTX_Auto2.uasset'
+[2026.01.10-17.44.27:693][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/ZT/R8KK456QL9XGPSWJMIWX1Y_Auto2
+[2026.01.10-17.44.27:693][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/R8KK456QL9XGPSWJMIWX1Y_Auto2CABA75D548651DD9DC50488F893278AF.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/ZT/R8KK456QL9XGPSWJMIWX1Y_Auto2.uasset'
+[2026.01.10-17.44.27:695][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/B2/UFN8167J4QD20OAXO2H87K_Auto2
+[2026.01.10-17.44.27:695][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/UFN8167J4QD20OAXO2H87K_Auto2A5D686A7462BCD72D9F2448DB872C8F5.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/B2/UFN8167J4QD20OAXO2H87K_Auto2.uasset'
+[2026.01.10-17.44.27:697][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/51/1QHOEMTX6A6YBRD5PO59BX_Auto2
+[2026.01.10-17.44.27:697][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/1QHOEMTX6A6YBRD5PO59BX_Auto2180A62924B4F68FC762859801DA445B7.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/51/1QHOEMTX6A6YBRD5PO59BX_Auto2.uasset'
+[2026.01.10-17.44.27:699][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/H5/ST71F11V1UA91EAHEEM12T_Auto2
+[2026.01.10-17.44.27:699][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/ST71F11V1UA91EAHEEM12T_Auto2D98C31EB49D43B78568E9FA562CB7BA4.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/H5/ST71F11V1UA91EAHEEM12T_Auto2.uasset'
+[2026.01.10-17.44.27:701][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AQ/W6B8RRZ8OWON02FW83MD2C_Auto2
+[2026.01.10-17.44.27:701][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/W6B8RRZ8OWON02FW83MD2C_Auto2460485E64D8B8CDBF626C9A048222E0F.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AQ/W6B8RRZ8OWON02FW83MD2C_Auto2.uasset'
+[2026.01.10-17.44.27:703][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/5H/S3QTCGPXOGHDPY4BTEB9GP_Auto2
+[2026.01.10-17.44.27:703][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/S3QTCGPXOGHDPY4BTEB9GP_Auto26E5AE7B148ED262FAE3D0EA0BD0686C6.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/5H/S3QTCGPXOGHDPY4BTEB9GP_Auto2.uasset'
+[2026.01.10-17.44.27:705][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/LK/8NYXDG7V7R5VR5K0UV1B06_Auto2
+[2026.01.10-17.44.27:705][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/8NYXDG7V7R5VR5K0UV1B06_Auto286AFA0704395C753349784BF6A56C560.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/LK/8NYXDG7V7R5VR5K0UV1B06_Auto2.uasset'
+[2026.01.10-17.44.27:707][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/M9/IWS7VWL2RWJL4C8HNK2MEB_Auto2
+[2026.01.10-17.44.27:707][142]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/IWS7VWL2RWJL4C8HNK2MEB_Auto2A6F7FA6D488553885811A9A03861573C.tmp' to '../../../../../dise-oexperimental/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/M9/IWS7VWL2RWJL4C8HNK2MEB_Auto2.uasset'
+[2026.01.10-17.44.27:709][142]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.186
+[2026.01.10-17.44.27:709][142]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.186
+[2026.01.10-17.44.31:438][460]Cmd: TRANSACTION UNDO
+[2026.01.10-17.44.31:438][460]LogEditorTransaction: Undo Mover elementos
+[2026.01.10-17.44.32:650][543]Cmd: EDIT COPY
+[2026.01.10-17.44.32:842][559]Cmd: EDIT PASTE
+[2026.01.10-17.45.16:441][ 84]Cmd: EDIT COPY
+[2026.01.10-17.45.16:652][ 95]Cmd: EDIT PASTE
+[2026.01.10-17.45.24:392][707]Cmd: EDIT COPY
+[2026.01.10-17.45.24:606][718]Cmd: EDIT PASTE
+[2026.01.10-17.46.31:950][979]Cmd: EDIT COPY
+[2026.01.10-17.46.32:111][986]Cmd: EDIT PASTE
+[2026.01.10-17.46.44:253][900]Cmd: DELETE
+[2026.01.10-17.46.44:253][900]Cmd: ACTOR DELETE
+[2026.01.10-17.46.44:260][900]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.10-17.46.44:285][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.01.10-17.46.44:287][900]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2026.01.10-17.46.53:810][638]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1678.929321
+[2026.01.10-17.46.53:924][647]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.10-17.46.53:924][647]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1679.038086, Update Interval: 358.443542
+[2026.01.10-17.47.03:324][381]Cmd: MODE GRID=0
+[2026.01.10-17.47.13:004][ 65]Cmd: MODE GRID=1
+[2026.01.10-17.47.16:151][306]Cmd: MODE SCALEGRID=0
+[2026.01.10-17.47.24:301][948]Cmd: MODE SCALEGRID=1
+[2026.01.10-17.47.25:031][996]Cmd: EDIT COPY
+[2026.01.10-17.47.25:227][ 12]Cmd: EDIT PASTE
+[2026.01.10-17.48.03:820][ 79]Cmd: DELETE
+[2026.01.10-17.48.03:820][ 79]Cmd: ACTOR DELETE
+[2026.01.10-17.48.03:828][ 79]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.10-17.48.03:854][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.01.10-17.48.03:855][ 79]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2026.01.10-17.50.29:326][483]Cmd: DELETE
+[2026.01.10-17.50.29:328][483]Cmd: ACTOR DELETE
+[2026.01.10-17.50.29:335][483]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.10-17.50.29:389][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.01.10-17.50.29:390][483]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2026.01.10-17.50.31:888][704]Cmd: EDIT COPY
+[2026.01.10-17.50.32:072][721]Cmd: EDIT PASTE
+[2026.01.10-17.50.39:278][290]Cmd: DELETE
+[2026.01.10-17.50.39:278][290]Cmd: ACTOR DELETE
+[2026.01.10-17.50.39:287][290]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.10-17.50.39:317][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.01.10-17.50.39:318][290]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.01.10-17.50.43:473][608]Cmd: DELETE
+[2026.01.10-17.50.43:475][608]Cmd: ACTOR DELETE
+[2026.01.10-17.50.43:483][608]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.10-17.50.43:512][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.01.10-17.50.43:513][608]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.01.10-17.53.37:833][821]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2082.968506
+[2026.01.10-17.53.37:979][835]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.10-17.53.37:979][835]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2083.104004, Update Interval: 329.616394
+[2026.01.10-17.54.31:946][ 74]Cmd: EDIT COPY
+[2026.01.10-17.54.32:173][ 94]Cmd: EDIT PASTE
+[2026.01.10-17.56.02:485][316]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.01.10-17.56.02:491][316]LogContentBundle: [FirstPersonMap(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2026.01.10-17.56.02:491][316]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2026.01.10-17.56.02:530][316]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 39.539 ms (total: 127.110 ms)
+[2026.01.10-17.56.02:530][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.10-17.56.02:530][316]LogPlayLevel: Display: Creating online subsystem for client :Context_4
+[2026.01.10-17.56.02:534][316]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2026.01.10-17.56.02:582][317]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.01.10-17.56.02:642][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059607s)
+[2026.01.10-17.56.02:642][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.059646s)
+[2026.01.10-17.56.02:669][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.01.10-17.56.02:672][317]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.01.10-17.56.02:674][317]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.10-17.56.02:674][317]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.10-17.56.02:674][317]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.10-17.56.02:674][317]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.10-17.56.02:697][317]LogWorldPartition: Display: WorldPartition initialize took 22.316 ms (total: 385.176 ms)
+[2026.01.10-17.56.02:697][317]LogPlayLevel: PIE: World Init took: (0.024098s)
+[2026.01.10-17.56.02:697][317]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.01.10-17.56.02:697][317]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.10-17.56.02:697][317]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.10-17.56.02:697][317]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.10-17.56.02:698][317]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.10-17.56.02:698][317]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.01.10-17.56.02:698][317]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.10-17.56.02:698][317]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.01.10-17.56.02:698][317]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.10-17.56.02:698][317]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.10-17.56.02:698][317]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.10-17.56.02:698][317]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.10-17.56.02:700][317]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.10-17.56.02:725][317]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.01.10-17.56.02:725][317]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.10-17.56.02:725][317]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.10-17.56.02:725][317]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.10-17.56.02:726][317]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.01.10-17.56.02:726][317]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.01.10-17.56.02:728][317]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.01.10-17.56.02:728][317]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.01.10-17.56.02:728][317]LogInit: FAudioDevice initialized with ID 5.
+[2026.01.10-17.56.02:728][317]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2026.01.10-17.56.02:728][317]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.01.10-17.56.02:730][317]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.10-17.56.02:767][317]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.01.10-18.56.02
+[2026.01.10-17.56.02:768][317]LogWorld: Bringing up level for play took: 0.037444
+[2026.01.10-17.56.02:772][317]PIE: El servidor ha iniciado sesión
+[2026.01.10-17.56.02:773][317]PIE: Tiempo de inicio total de la reproducción en el editor de 0,282 segundos.
+[2026.01.10-17.56.29:583][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.10-17.56.29:583][215]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.01.10-17.56.29:584][215]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.10-17.56.29:593][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.10-17.56.29:593][215]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.01.10-17.56.29:597][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.10-17.56.29:600][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.10-17.56.29:632][215]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.10-17.56.29:634][215]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.01.10-17.56.29:634][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2026.01.10-17.56.29:636][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2026.01.10-17.56.29:641][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.10-17.56.29:651][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.01.10-17.56.29:715][216]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2026.01.10-17.56.47:709][613]Cmd: EDIT COPY
+[2026.01.10-17.56.47:905][629]Cmd: EDIT PASTE
+[2026.01.10-17.56.56:189][234]Cmd: EDIT COPY
+[2026.01.10-17.56.56:413][255]Cmd: EDIT PASTE
+[2026.01.10-17.57.36:871][462]Cmd: EDIT COPY
+[2026.01.10-17.57.37:162][488]Cmd: EDIT PASTE
+[2026.01.10-17.58.09:902][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.10-17.58.09:968][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.01.10-17.58.09:995][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.01.10-17.58.10:018][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.01.10-17.58.10:057][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/2H/2LIPMQ1QDEEIAM5UYMGX5A
+[2026.01.10-17.58.10:058][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/2LIPMQ1QDEEIAM5UYMGX5AABFE56B94861A0F287BDB1986B640B6D.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/2H/2LIPMQ1QDEEIAM5UYMGX5A.uasset'
+[2026.01.10-17.58.10:061][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/72/XY7O5EG0ZZ1NCVREAYL5NQ
+[2026.01.10-17.58.10:062][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/XY7O5EG0ZZ1NCVREAYL5NQ80ADF9BB4CC708AFBDA516B1817D5907.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/72/XY7O5EG0ZZ1NCVREAYL5NQ.uasset'
+[2026.01.10-17.58.10:064][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM
+[2026.01.10-17.58.10:072][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/MG6FOV6QQX2CAZCGF7O9MME22C9F114C63DC224123A9AC4303A087.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM.uasset'
+[2026.01.10-17.58.10:074][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/7A/5T1GJVE2BOUHWJJZEMGDZ4
+[2026.01.10-17.58.10:074][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/5T1GJVE2BOUHWJJZEMGDZ4EFDA97AE43BCCF8ACECE129707F49815.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/7A/5T1GJVE2BOUHWJJZEMGDZ4.uasset'
+[2026.01.10-17.58.10:077][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/TC/QOHIJQP2QFFVJYZVU4T4OO
+[2026.01.10-17.58.10:077][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/QOHIJQP2QFFVJYZVU4T4OO57B2A6DC48DD195B7E1BF4877EA77B62.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/TC/QOHIJQP2QFFVJYZVU4T4OO.uasset'
+[2026.01.10-17.58.10:080][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/I1/XIPLPR9AV8VC1TFCQGBRGJ
+[2026.01.10-17.58.10:080][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/XIPLPR9AV8VC1TFCQGBRGJ6AEDB97D43DF99E7C32A478AF769D0AA.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/I1/XIPLPR9AV8VC1TFCQGBRGJ.uasset'
+[2026.01.10-17.58.10:082][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/JB/3DPN1XR6BOOVJ50BVJL7OW
+[2026.01.10-17.58.10:083][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/3DPN1XR6BOOVJ50BVJL7OW93283A124F4D82C3FB069E879D4DEAC2.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/JB/3DPN1XR6BOOVJ50BVJL7OW.uasset'
+[2026.01.10-17.58.10:086][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DG/UC3Q02V2I56X4AAROXJUML
+[2026.01.10-17.58.10:087][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/UC3Q02V2I56X4AAROXJUMLFEC5A3BE492F80DF1C5A14AE7D56F9F2.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DG/UC3Q02V2I56X4AAROXJUML.uasset'
+[2026.01.10-17.58.10:090][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/H1/KYJU9GM0EQMF70C6YK9937
+[2026.01.10-17.58.10:090][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/KYJU9GM0EQMF70C6YK9937A74CDC3645BD381B807F70BF995EDC7C.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/H1/KYJU9GM0EQMF70C6YK9937.uasset'
+[2026.01.10-17.58.10:099][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/27/BAFGN5ENIXWNSDH8PQM44Q
+[2026.01.10-17.58.10:099][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/BAFGN5ENIXWNSDH8PQM44Q0EFD7D4D495CEAE9DBA794AF844934FE.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/27/BAFGN5ENIXWNSDH8PQM44Q.uasset'
+[2026.01.10-17.58.10:102][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R
+[2026.01.10-17.58.10:103][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/2XZ3RUK0LFB63FVNQE7P5R6250DFBA4650F53A3416EC8D2652A7B2.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.uasset'
+[2026.01.10-17.58.10:105][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/BP/YVGL1IRMBU6FI33XZQT2S0
+[2026.01.10-17.58.10:105][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/YVGL1IRMBU6FI33XZQT2S0FC4FB0C5462DA93D953A91A25687DD60.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/BP/YVGL1IRMBU6FI33XZQT2S0.uasset'
+[2026.01.10-17.58.10:107][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB
+[2026.01.10-17.58.10:109][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/1ZJ54FMA0DAL3I2Q8RFAIB8036EC624CADBAE57FD7D0A4A272B8AF.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset'
+[2026.01.10-17.58.10:112][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3O/RKFG8PQNEX34KODMXE9J0R
+[2026.01.10-17.58.10:113][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/RKFG8PQNEX34KODMXE9J0RA2C02AD24C0EA7856B66C98E6D5B8615.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3O/RKFG8PQNEX34KODMXE9J0R.uasset'
+[2026.01.10-17.58.10:116][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Y6/HC1HA1K7E9DWXEGEMYIWD4
+[2026.01.10-17.58.10:116][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/HC1HA1K7E9DWXEGEMYIWD45AEAFA3948B07EF989CD8690EF877BA5.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Y6/HC1HA1K7E9DWXEGEMYIWD4.uasset'
+[2026.01.10-17.58.10:119][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/89/DUO3V8JUV1US5U6AC0EZ2G
+[2026.01.10-17.58.10:119][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/DUO3V8JUV1US5U6AC0EZ2G1885432E4608BEEBF1F215BD5664ACEC.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/89/DUO3V8JUV1US5U6AC0EZ2G.uasset'
+[2026.01.10-17.58.10:123][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/02/F6J2XDJUU78JD0UL5MMO6Y
+[2026.01.10-17.58.10:123][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/F6J2XDJUU78JD0UL5MMO6YBA51D1184D8E25B9BF49DF80F343298F.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/02/F6J2XDJUU78JD0UL5MMO6Y.uasset'
+[2026.01.10-17.58.10:126][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/57/UWTGXK4D9TINO2CY7O9OWG
+[2026.01.10-17.58.10:126][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/UWTGXK4D9TINO2CY7O9OWG6C410E6A4946F63AF5B3DB89EAF1C5DC.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/57/UWTGXK4D9TINO2CY7O9OWG.uasset'
+[2026.01.10-17.58.10:129][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/KG/WPQFS3SRV25LW99ANVKFKD
+[2026.01.10-17.58.10:129][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/WPQFS3SRV25LW99ANVKFKD69BEC88B4D921C95E9A684A429482C1E.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/KG/WPQFS3SRV25LW99ANVKFKD.uasset'
+[2026.01.10-17.58.10:133][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/1N/7D0FDMM7DBPHJ77SBTZGC1
+[2026.01.10-17.58.10:133][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/7D0FDMM7DBPHJ77SBTZGC1C1383E5C45CE35745E0451B9B3E844EB.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/1N/7D0FDMM7DBPHJ77SBTZGC1.uasset'
+[2026.01.10-17.58.10:136][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/JE/T827MDP8PF5GKU924I3WLL
+[2026.01.10-17.58.10:141][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/T827MDP8PF5GKU924I3WLL06DAF239412164ADE2D21FA445E400D1.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/JE/T827MDP8PF5GKU924I3WLL.uasset'
+[2026.01.10-17.58.10:144][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/56/DN7LPC2UB1DOPH8JGTUHMV
+[2026.01.10-17.58.10:144][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/DN7LPC2UB1DOPH8JGTUHMV9591E80545F23107EABFC6BFE13B8633.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/56/DN7LPC2UB1DOPH8JGTUHMV.uasset'
+[2026.01.10-17.58.10:148][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/LF/WM0S8ZFV03K1A2TDI5NSMB
+[2026.01.10-17.58.10:148][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/WM0S8ZFV03K1A2TDI5NSMBAF6D7A14463A8A18CCC4029A21B4BBFB.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/LF/WM0S8ZFV03K1A2TDI5NSMB.uasset'
+[2026.01.10-17.58.10:150][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/TP/8GGZDJ3CBD6DBDZ9J2IEP0
+[2026.01.10-17.58.10:151][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/8GGZDJ3CBD6DBDZ9J2IEP09CAF458F4DECDE8A7E2D598F66CA58DD.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/TP/8GGZDJ3CBD6DBDZ9J2IEP0.uasset'
+[2026.01.10-17.58.10:154][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/Z8/2X1PEEI29PALDFF0AKK3JK
+[2026.01.10-17.58.10:154][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/2X1PEEI29PALDFF0AKK3JKBC3F48034238388C7916B29B7567404D.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/Z8/2X1PEEI29PALDFF0AKK3JK.uasset'
+[2026.01.10-17.58.10:157][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/6D/XH47616E075534YNUGBWSR
+[2026.01.10-17.58.10:157][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/XH47616E075534YNUGBWSRD3263C2F43D7B3946C4B51B97A8565C9.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/6D/XH47616E075534YNUGBWSR.uasset'
+[2026.01.10-17.58.10:159][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S
+[2026.01.10-17.58.10:160][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/YUZ9741T50O1SYRX90OB0S04ADB03B4370BA81F52B66A4C5183CC3.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset'
+[2026.01.10-17.58.10:166][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/WX/C0BCUE6O8S446ZAYKR69UU
+[2026.01.10-17.58.10:167][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/C0BCUE6O8S446ZAYKR69UU428C48A94806B2E960F8B98ED91DBF6A.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/WX/C0BCUE6O8S446ZAYKR69UU.uasset'
+[2026.01.10-17.58.10:169][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/4D/D3HH05UQRS5QBE0QMTLPBU
+[2026.01.10-17.58.10:169][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/D3HH05UQRS5QBE0QMTLPBU90D6EF7C443A2AA990DC75A1E158D8E9.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/4D/D3HH05UQRS5QBE0QMTLPBU.uasset'
+[2026.01.10-17.58.10:171][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/FV/CE0TMIMRM12B8RTJ3JK287
+[2026.01.10-17.58.10:173][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/CE0TMIMRM12B8RTJ3JK2879703427A4132338C1C88BA9FE719FC4D.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/FV/CE0TMIMRM12B8RTJ3JK287.uasset'
+[2026.01.10-17.58.10:175][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/QV/6WBSCRT2JENZSOQF72HJ4O
+[2026.01.10-17.58.10:175][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/6WBSCRT2JENZSOQF72HJ4OFC5FBC80485279643D055D8902B9E95A.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/QV/6WBSCRT2JENZSOQF72HJ4O.uasset'
+[2026.01.10-17.58.10:177][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/KH/039W3XYLR9YAQD3USTXYD6
+[2026.01.10-17.58.10:178][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/039W3XYLR9YAQD3USTXYD629B4297B48C7AAC651FAF3A6EA2919DC.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/KH/039W3XYLR9YAQD3USTXYD6.uasset'
+[2026.01.10-17.58.10:180][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/XI/YPUU5LXPRX7BA0ARGX111M
+[2026.01.10-17.58.10:180][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/YPUU5LXPRX7BA0ARGX111M04934DD9447143A0C7F10BA3F4F420DD.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/XI/YPUU5LXPRX7BA0ARGX111M.uasset'
+[2026.01.10-17.58.10:183][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/5O/YAR9PBTQXV39HBWJVEXLNC
+[2026.01.10-17.58.10:184][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/YAR9PBTQXV39HBWJVEXLNC0BE7632542EE1E6295921FBEC0E9D54A.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/5O/YAR9PBTQXV39HBWJVEXLNC.uasset'
+[2026.01.10-17.58.10:186][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/6N/3J83LXKVN0YB4K95AELBBN
+[2026.01.10-17.58.10:186][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/3J83LXKVN0YB4K95AELBBNDF2E6EA7439DBA262DBDC1BEEDFD7173.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/6N/3J83LXKVN0YB4K95AELBBN.uasset'
+[2026.01.10-17.58.10:189][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/N3/4UHUQ9042U9KAHVUMVMMD4
+[2026.01.10-17.58.10:189][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/4UHUQ9042U9KAHVUMVMMD40B1846B24748C6FADF5AA4804178B190.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/N3/4UHUQ9042U9KAHVUMVMMD4.uasset'
+[2026.01.10-17.58.10:192][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/J2/U6VR1U7VROCSE2CMQG7ENY
+[2026.01.10-17.58.10:192][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/U6VR1U7VROCSE2CMQG7ENY8B20465C40DAAB9F815D31BC74D8F6AE.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/J2/U6VR1U7VROCSE2CMQG7ENY.uasset'
+[2026.01.10-17.58.10:195][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L8/EC3UYW8EAFBURMG0049ACO
+[2026.01.10-17.58.10:195][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/EC3UYW8EAFBURMG0049ACOB5C0E55E4F951E2F3D188DAC4091C1ED.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L8/EC3UYW8EAFBURMG0049ACO.uasset'
+[2026.01.10-17.58.10:197][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/MK/C41H5W2REC2D0JXCTJ8OS0
+[2026.01.10-17.58.10:198][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/C41H5W2REC2D0JXCTJ8OS0224854C8456D033ABAC584996DCABCB0.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/MK/C41H5W2REC2D0JXCTJ8OS0.uasset'
+[2026.01.10-17.58.10:201][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/MX/JUQXN23P25BVB9DHU6MCK6
+[2026.01.10-17.58.10:204][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/JUQXN23P25BVB9DHU6MCK6EA3C0AB742601D008CF71B9CF29F9595.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/MX/JUQXN23P25BVB9DHU6MCK6.uasset'
+[2026.01.10-17.58.10:206][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/IW/KXWADBXQ2J9AVWL5CQYKTX
+[2026.01.10-17.58.10:206][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/KXWADBXQ2J9AVWL5CQYKTX171945D74A39CE02DF169FA2EB7D643E.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/IW/KXWADBXQ2J9AVWL5CQYKTX.uasset'
+[2026.01.10-17.58.10:209][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/ZT/R8KK456QL9XGPSWJMIWX1Y
+[2026.01.10-17.58.10:209][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/R8KK456QL9XGPSWJMIWX1Y2F6635EB4F01F05BDA65F88389ABE18E.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/ZT/R8KK456QL9XGPSWJMIWX1Y.uasset'
+[2026.01.10-17.58.10:212][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/B2/UFN8167J4QD20OAXO2H87K
+[2026.01.10-17.58.10:212][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/UFN8167J4QD20OAXO2H87K697EAB614DD3DD2EFA2481BD33AEAA47.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/B2/UFN8167J4QD20OAXO2H87K.uasset'
+[2026.01.10-17.58.10:214][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/51/1QHOEMTX6A6YBRD5PO59BX
+[2026.01.10-17.58.10:215][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/1QHOEMTX6A6YBRD5PO59BXA5C42BCF4E72D3E5E26E08BE24B000C6.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/51/1QHOEMTX6A6YBRD5PO59BX.uasset'
+[2026.01.10-17.58.10:217][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/H5/ST71F11V1UA91EAHEEM12T
+[2026.01.10-17.58.10:217][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/ST71F11V1UA91EAHEEM12TAE297AB343AFC60A0989DBB799D10A89.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/H5/ST71F11V1UA91EAHEEM12T.uasset'
+[2026.01.10-17.58.10:219][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AQ/W6B8RRZ8OWON02FW83MD2C
+[2026.01.10-17.58.10:220][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/W6B8RRZ8OWON02FW83MD2C247EC37E4B36C3EE8CD87592479911A5.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AQ/W6B8RRZ8OWON02FW83MD2C.uasset'
+[2026.01.10-17.58.10:223][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/5H/S3QTCGPXOGHDPY4BTEB9GP
+[2026.01.10-17.58.10:223][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/S3QTCGPXOGHDPY4BTEB9GP96579DA14E54C20D5CC84689A70294B4.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/5H/S3QTCGPXOGHDPY4BTEB9GP.uasset'
+[2026.01.10-17.58.10:225][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/LK/8NYXDG7V7R5VR5K0UV1B06
+[2026.01.10-17.58.10:225][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/8NYXDG7V7R5VR5K0UV1B06F02363254A890418D6C7B6910640C9B9.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/LK/8NYXDG7V7R5VR5K0UV1B06.uasset'
+[2026.01.10-17.58.10:228][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/M9/IWS7VWL2RWJL4C8HNK2MEB
+[2026.01.10-17.58.10:228][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/IWS7VWL2RWJL4C8HNK2MEB8740B3814CCDACC015EAE4B717D0C0E3.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/M9/IWS7VWL2RWJL4C8HNK2MEB.uasset'
+[2026.01.10-17.58.10:240][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/JW/4U6GV5LSL9KFSYUEZW7K3U
+[2026.01.10-17.58.10:240][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/4U6GV5LSL9KFSYUEZW7K3U20038874458D4234BED241B2971B3AEB.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/JW/4U6GV5LSL9KFSYUEZW7K3U.uasset'
+[2026.01.10-17.58.10:243][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/L0/9XBAH3TTNZFQP6TPJOAZEX
+[2026.01.10-17.58.10:243][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/9XBAH3TTNZFQP6TPJOAZEX71D3F6804B450D5630A7AD93EBA34FDE.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/L0/9XBAH3TTNZFQP6TPJOAZEX.uasset'
+[2026.01.10-17.58.10:285][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/OL/RBIILWOO0FKZ8JJNXRM2ST
+[2026.01.10-17.58.10:285][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/RBIILWOO0FKZ8JJNXRM2ST8111C9ED456BECF3DAF954AEFD82D630.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/OL/RBIILWOO0FKZ8JJNXRM2ST.uasset'
+[2026.01.10-17.58.10:287][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AG/9KK22RV6TWTKI8OGQ455KL
+[2026.01.10-17.58.10:287][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/9KK22RV6TWTKI8OGQ455KL161C068B48949054CC717B99F4CDF60F.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AG/9KK22RV6TWTKI8OGQ455KL.uasset'
+[2026.01.10-17.58.10:289][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/QW/G14JO9G8367JPTNS3H8HWF
+[2026.01.10-17.58.10:289][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/G14JO9G8367JPTNS3H8HWFD79E34E340EFCDAE005498A7801A943A.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/QW/G14JO9G8367JPTNS3H8HWF.uasset'
+[2026.01.10-17.58.10:291][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/R1/07IUCO2Z636XG29BPGZ99P
+[2026.01.10-17.58.10:293][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/07IUCO2Z636XG29BPGZ99PCD362A5641A0A9D052BD82B19212E3BA.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/R1/07IUCO2Z636XG29BPGZ99P.uasset'
+[2026.01.10-17.58.10:295][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/K3/E61F3Q96VX7P1NZ04W87QP
+[2026.01.10-17.58.10:295][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/E61F3Q96VX7P1NZ04W87QP57D2A95D4DA3ABBA5516198D9FE02477.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/K3/E61F3Q96VX7P1NZ04W87QP.uasset'
+[2026.01.10-17.58.10:298][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/6Q/1N6FA5LQC5EFDMAO3N1F75
+[2026.01.10-17.58.10:298][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/1N6FA5LQC5EFDMAO3N1F75C2A9DBD74DF7604D8B46BA8ED9179F63.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/6Q/1N6FA5LQC5EFDMAO3N1F75.uasset'
+[2026.01.10-17.58.10:302][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/IT/3YG6RTNYVLM312IZC93KAB
+[2026.01.10-17.58.10:302][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/3YG6RTNYVLM312IZC93KABD8CC41B24E71A7DF9FB812815CDFEE94.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/IT/3YG6RTNYVLM312IZC93KAB.uasset'
+[2026.01.10-17.58.10:304][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/PL/ZUDJ8QC99TY0CLUTLAP5WH
+[2026.01.10-17.58.10:304][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/ZUDJ8QC99TY0CLUTLAP5WHED958A874D492F7D451DC8A9CA21155A.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/PL/ZUDJ8QC99TY0CLUTLAP5WH.uasset'
+[2026.01.10-17.58.10:307][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/NX/BH9R4KMFVLGYINRRJTVVJQ
+[2026.01.10-17.58.10:307][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/BH9R4KMFVLGYINRRJTVVJQBD1B12874E47390B77A4DEB3D6DD5A64.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/NX/BH9R4KMFVLGYINRRJTVVJQ.uasset'
+[2026.01.10-17.58.10:309][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/BP/E555XWCVF6ZR6GFD27JMZT
+[2026.01.10-17.58.10:309][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/E555XWCVF6ZR6GFD27JMZT86C2DC3C4BB660BB6B7E64861E9D74D7.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/BP/E555XWCVF6ZR6GFD27JMZT.uasset'
+[2026.01.10-17.58.10:312][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/46/HSLDVW9MTMZXPS3WJYJN4E
+[2026.01.10-17.58.10:312][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/HSLDVW9MTMZXPS3WJYJN4EB70D32664B26B1FA8D93848F315A4819.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/46/HSLDVW9MTMZXPS3WJYJN4E.uasset'
+[2026.01.10-17.58.10:314][ 34]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/NR/SIUQAG2E287727R70DDY2B
+[2026.01.10-17.58.10:314][ 34]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/SIUQAG2E287727R70DDY2B2E95EA8A47FF90AF170EB79689C81C87.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/NR/SIUQAG2E287727R70DDY2B.uasset'
+[2026.01.10-17.58.10:333][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave took 429.896 ms (total: 3.02 sec)
+[2026.01.10-17.58.10:382][ 34]LogContentValidation: Display: Starting to validate 63 assets
+[2026.01.10-17.58.10:382][ 34]LogContentValidation: Enabled validators:
+[2026.01.10-17.58.10:382][ 34]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.10-17.58.10:382][ 34]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.10-17.58.10:382][ 34]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.10-17.58.10:382][ 34]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.10-17.58.10:382][ 34]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.10-17.58.10:382][ 34]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.10-17.58.10:382][ 34]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validando recurso
