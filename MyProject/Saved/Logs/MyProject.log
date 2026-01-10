@@ -14486,3 +14486,922 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.10-20.11.47:959][868]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.10-20.11.47:962][868]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validando recurso
 [2026.01.10-20.11.48:214][868]LogAutomationController: Ignoring very large delta of 4.89 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.01.10-20.17.27:499][778]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.01.10-20.17.27:506][778]LogContentBundle: [FirstPersonMap(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2026.01.10-20.17.27:506][778]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2026.01.10-20.17.27:605][778]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 100.708 ms (total: 1.40 sec)
+[2026.01.10-20.17.27:607][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.10-20.17.27:630][778]LogPlayLevel: Display: Creating online subsystem for client :Context_23
+[2026.01.10-20.17.27:633][778]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2026.01.10-20.17.27:674][779]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.01.10-20.17.27:847][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.171910s)
+[2026.01.10-20.17.27:847][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.171961s)
+[2026.01.10-20.17.28:002][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.01.10-20.17.28:006][779]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.01.10-20.17.28:008][779]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.10-20.17.28:008][779]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.10-20.17.28:008][779]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.10-20.17.28:008][779]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.10-20.17.28:070][779]LogWorldPartition: Display: WorldPartition initialize took 61.246 ms (total: 1.12 sec)
+[2026.01.10-20.17.28:070][779]LogPlayLevel: PIE: World Init took: (0.063496s)
+[2026.01.10-20.17.28:071][779]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.01.10-20.17.28:071][779]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.10-20.17.28:071][779]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.10-20.17.28:071][779]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.10-20.17.28:071][779]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.10-20.17.28:071][779]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.01.10-20.17.28:071][779]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.10-20.17.28:071][779]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.01.10-20.17.28:071][779]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.10-20.17.28:071][779]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.10-20.17.28:071][779]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.10-20.17.28:071][779]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.10-20.17.28:073][779]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.10-20.17.28:101][779]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.01.10-20.17.28:102][779]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.10-20.17.28:102][779]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.10-20.17.28:102][779]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.10-20.17.28:102][779]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.01.10-20.17.28:102][779]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.01.10-20.17.28:106][779]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.01.10-20.17.28:106][779]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.01.10-20.17.28:106][779]LogInit: FAudioDevice initialized with ID 22.
+[2026.01.10-20.17.28:106][779]LogAudio: Display: Audio Device (ID: 22) registered with world 'FirstPersonMap'.
+[2026.01.10-20.17.28:106][779]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.01.10-20.17.28:109][779]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.10-20.17.28:216][779]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.01.10-21.17.28
+[2026.01.10-20.17.28:218][779]LogWorld: Bringing up level for play took: 0.108134
+[2026.01.10-20.17.28:226][779]PIE: El servidor ha iniciado sesión
+[2026.01.10-20.17.28:227][779]PIE: Tiempo de inicio total de la reproducción en el editor de 0,722 segundos.
+[2026.01.10-20.17.48:342][158]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10733.170898
+[2026.01.10-20.17.48:487][168]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.10-20.17.48:487][168]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10733.299805, Update Interval: 350.166931
+[2026.01.10-20.18.40:573][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.10-20.18.40:573][ 23]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.01.10-20.18.40:575][ 23]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.10-20.18.40:601][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.10-20.18.40:601][ 23]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.01.10-20.18.40:605][ 23]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.10-20.18.40:610][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.10-20.18.40:793][ 23]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.10-20.18.40:793][ 23]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.01.10-20.18.40:793][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2026.01.10-20.18.40:795][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2026.01.10-20.18.40:800][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.10-20.18.40:834][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.01.10-20.18.40:909][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2026.01.10-20.19.08:227][376]Cmd: DELETE
+[2026.01.10-20.19.08:227][376]Cmd: ACTOR DELETE
+[2026.01.10-20.19.08:227][376]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2026.01.10-20.19.08:255][376]LogEditorActor: Deleted Actor: SpotLight
+[2026.01.10-20.19.08:258][376]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.10-20.19.08:393][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.01.10-20.19.08:395][376]LogEditorActor: Deleted 2 Actors (0.167 secs)
+[2026.01.10-20.19.11:243][595]Cmd: DELETE
+[2026.01.10-20.19.11:243][595]Cmd: ACTOR DELETE
+[2026.01.10-20.19.11:269][595]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.10-20.19.11:270][595]LogEditorActor: Deleted Actor: SpotLight
+[2026.01.10-20.19.11:406][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.01.10-20.19.11:409][595]LogEditorActor: Deleted 2 Actors (0.165 secs)
+[2026.01.10-20.19.16:930][991]Cmd: DELETE
+[2026.01.10-20.19.16:930][991]Cmd: ACTOR DELETE
+[2026.01.10-20.19.16:958][991]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.10-20.19.16:960][991]LogEditorActor: Deleted Actor: SpotLight
+[2026.01.10-20.19.17:101][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.10-20.19.17:104][991]LogEditorActor: Deleted 2 Actors (0.172 secs)
+[2026.01.10-20.19.20:293][236]Cmd: DELETE
+[2026.01.10-20.19.20:293][236]Cmd: ACTOR DELETE
+[2026.01.10-20.19.20:321][236]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.10-20.19.20:323][236]LogEditorActor: Deleted Actor: SpotLight
+[2026.01.10-20.19.20:459][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.01.10-20.19.20:463][236]LogEditorActor: Deleted 2 Actors (0.169 secs)
+[2026.01.10-20.19.28:056][802]Cmd: DELETE
+[2026.01.10-20.19.28:056][802]Cmd: ACTOR DELETE
+[2026.01.10-20.19.28:080][802]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.10-20.19.28:081][802]LogEditorActor: Deleted Actor: SpotLight
+[2026.01.10-20.19.28:219][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.01.10-20.19.28:222][802]LogEditorActor: Deleted 2 Actors (0.166 secs)
+[2026.01.10-20.19.34:776][286]Cmd: DELETE
+[2026.01.10-20.19.34:776][286]Cmd: ACTOR DELETE
+[2026.01.10-20.19.34:803][286]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.10-20.19.34:804][286]LogEditorActor: Deleted Actor: SpotLight
+[2026.01.10-20.19.34:952][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.01.10-20.19.34:954][286]LogEditorActor: Deleted 2 Actors (0.177 secs)
+[2026.01.10-20.19.37:526][489]Cmd: DELETE
+[2026.01.10-20.19.37:526][489]Cmd: ACTOR DELETE
+[2026.01.10-20.19.37:561][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.10-20.19.37:563][489]LogEditorActor: Deleted Actor: SpotLight
+[2026.01.10-20.19.37:720][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.01.10-20.19.37:723][489]LogEditorActor: Deleted 2 Actors (0.195 secs)
+[2026.01.10-20.19.39:938][662]Cmd: DELETE
+[2026.01.10-20.19.39:939][662]Cmd: ACTOR DELETE
+[2026.01.10-20.19.39:964][662]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.10-20.19.39:965][662]LogEditorActor: Deleted Actor: SpotLight
+[2026.01.10-20.19.40:104][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.01.10-20.19.40:108][662]LogEditorActor: Deleted 2 Actors (0.168 secs)
+[2026.01.10-20.19.43:297][919]Cmd: DELETE
+[2026.01.10-20.19.43:297][919]Cmd: ACTOR DELETE
+[2026.01.10-20.19.43:324][919]LogEditorActor: Deleted Actor: SpotLight
+[2026.01.10-20.19.43:327][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.10-20.19.43:470][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.01.10-20.19.43:472][919]LogEditorActor: Deleted 2 Actors (0.174 secs)
+[2026.01.10-20.19.55:463][885]Cmd: DELETE
+[2026.01.10-20.19.55:463][885]Cmd: ACTOR DELETE
+[2026.01.10-20.19.55:496][885]LogEditorActor: Deleted Actor: SpotLight
+[2026.01.10-20.19.55:498][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.10-20.19.55:644][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.01.10-20.19.55:647][885]LogEditorActor: Deleted 2 Actors (0.183 secs)
+[2026.01.10-20.20.01:659][370]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.01.10-20.20.01:666][370]LogContentBundle: [FirstPersonMap(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2026.01.10-20.20.01:666][370]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2026.01.10-20.20.01:758][370]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 92.535 ms (total: 1.50 sec)
+[2026.01.10-20.20.01:773][370]LogPlayLevel: Warning: Cancelling Open Transaction 'Editar Light Color' to start PIE session.
+[2026.01.10-20.20.01:773][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.10-20.20.01:802][370]LogPlayLevel: Display: Creating online subsystem for client :Context_24
+[2026.01.10-20.20.01:804][370]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2026.01.10-20.20.01:805][370]LogSlate: Window 'Selector de color' being destroyed
+[2026.01.10-20.20.01:856][371]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.01.10-20.20.02:039][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.183117s)
+[2026.01.10-20.20.02:039][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.183161s)
+[2026.01.10-20.20.02:192][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.01.10-20.20.02:195][371]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.01.10-20.20.02:197][371]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.10-20.20.02:197][371]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.10-20.20.02:197][371]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.10-20.20.02:197][371]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.10-20.20.02:260][371]LogWorldPartition: Display: WorldPartition initialize took 62.703 ms (total: 1.18 sec)
+[2026.01.10-20.20.02:260][371]LogPlayLevel: PIE: World Init took: (0.064909s)
+[2026.01.10-20.20.02:261][371]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.01.10-20.20.02:261][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.10-20.20.02:261][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.10-20.20.02:261][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.10-20.20.02:261][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.10-20.20.02:261][371]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.01.10-20.20.02:261][371]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.10-20.20.02:261][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.01.10-20.20.02:261][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.10-20.20.02:261][371]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.10-20.20.02:261][371]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.10-20.20.02:261][371]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.10-20.20.02:263][371]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.10-20.20.02:290][371]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.01.10-20.20.02:290][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.10-20.20.02:290][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.10-20.20.02:290][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.10-20.20.02:290][371]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.01.10-20.20.02:290][371]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2026.01.10-20.20.02:294][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.01.10-20.20.02:294][371]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.01.10-20.20.02:294][371]LogInit: FAudioDevice initialized with ID 23.
+[2026.01.10-20.20.02:294][371]LogAudio: Display: Audio Device (ID: 23) registered with world 'FirstPersonMap'.
+[2026.01.10-20.20.02:294][371]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.01.10-20.20.02:296][371]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.10-20.20.02:401][371]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.01.10-21.20.02
+[2026.01.10-20.20.02:403][371]LogWorld: Bringing up level for play took: 0.106742
+[2026.01.10-20.20.02:410][371]PIE: El servidor ha iniciado sesión
+[2026.01.10-20.20.02:411][371]PIE: Tiempo de inicio total de la reproducción en el editor de 0,745 segundos.
+[2026.01.10-20.20.09:063][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.10-20.20.09:063][818]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.01.10-20.20.09:064][818]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.10-20.20.09:090][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.10-20.20.09:090][818]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.01.10-20.20.09:093][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.10-20.20.09:098][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.10-20.20.09:294][818]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.10-20.20.09:294][818]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.01.10-20.20.09:294][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2026.01.10-20.20.09:296][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2026.01.10-20.20.09:300][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.10-20.20.09:333][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.01.10-20.20.09:402][819]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.01.10-20.20.10:594][912]Cmd: SELECT NONE
+[2026.01.10-20.20.17:826][447]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2026.01.10-20.20.17:893][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2026.01.10-20.20.17:893][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2026.01.10-20.20.17:893][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2026.01.10-20.20.17:893][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2026.01.10-20.20.17:893][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2026.01.10-20.20.17:893][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2026.01.10-20.20.17:893][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2026.01.10-20.20.17:893][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2026.01.10-20.20.17:893][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2026.01.10-20.20.17:893][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2026.01.10-20.20.17:893][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2026.01.10-20.20.17:893][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2026.01.10-20.20.17:893][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2026.01.10-20.20.17:893][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2026.01.10-20.20.17:893][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2026.01.10-20.20.17:893][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2026.01.10-20.20.17:893][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2026.01.10-20.20.17:893][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2026.01.10-20.20.17:893][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2026.01.10-20.20.17:893][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2026.01.10-20.20.17:893][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2026.01.10-20.20.17:893][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2026.01.10-20.20.17:893][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2026.01.10-20.20.17:893][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2026.01.10-20.20.17:893][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2026.01.10-20.20.17:893][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2026.01.10-20.20.17:893][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2026.01.10-20.20.17:893][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2026.01.10-20.20.17:893][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2026.01.10-20.20.17:893][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2026.01.10-20.20.17:893][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2026.01.10-20.20.17:893][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2026.01.10-20.20.17:893][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2026.01.10-20.20.17:893][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2026.01.10-20.20.17:893][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2026.01.10-20.20.17:893][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2026.01.10-20.20.17:893][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2026.01.10-20.20.17:893][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2026.01.10-20.20.17:894][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2026.01.10-20.20.17:894][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2026.01.10-20.20.17:894][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2026.01.10-20.20.17:894][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2026.01.10-20.20.17:894][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2026.01.10-20.20.17:894][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2026.01.10-20.20.17:894][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2026.01.10-20.20.17:894][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2026.01.10-20.20.17:894][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2026.01.10-20.20.17:894][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2026.01.10-20.20.17:894][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2026.01.10-20.20.17:894][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2026.01.10-20.20.17:894][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2026.01.10-20.20.17:894][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2026.01.10-20.20.17:894][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2026.01.10-20.20.17:894][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2026.01.10-20.20.17:894][447]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2026.01.10-20.20.17:894][447]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2026.01.10-20.20.18:126][447]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.01.10-20.20.18:150][447]LogStreaming: Display: FlushAsyncLoading(1262): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.10-20.20.18:237][447]LogStaticMesh: Display: Malla estática de construcción Sphere_inversenormals (Estimación de memoria necesaria: 1.522745 MB)...
+[2026.01.10-20.20.18:245][447]LogStaticMesh: Built static mesh [0.04s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2026.01.10-20.20.18:464][447]LogStaticMesh: Display: Malla estática de construcción Floor_Mesh (Estimación de memoria necesaria: 0.022237 MB)...
+[2026.01.10-20.20.18:466][447]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2026.01.10-20.20.19:613][447]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.10-20.20.19:613][447]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.20.19:613][447]MaterialEditorStats: Shader Count: 0
+[2026.01.10-20.20.19:613][447]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2026.01.10-20.20.19:699][447]LogSlate: Took 0.025019 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.01.10-20.20.20:465][447]LogAutomationController: Ignoring very large delta of 2.69 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.01.10-20.20.20:509][449]MaterialEditorStats: Base pass shader: 170 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.10-20.20.20:509][449]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.10-20.20.20:509][449]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.10-20.20.20:509][449]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.20.20:509][449]MaterialEditorStats: Shader Count: 5
+[2026.01.10-20.20.20:509][449]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2026.01.10-20.20.25:576][688]LogSlate: Window 'BasicShapeMaterial' being destroyed
+[2026.01.10-20.20.25:582][688]LogSlate: Window 'BasicShapeMaterial' being destroyed
+[2026.01.10-20.20.30:892][ 52]LogSlate: Took 0.015987 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.01.10-20.20.39:941][592]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.01.10-20.20.39:969][592]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.01.10-20.20.39:999][593]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.01.10-20.20.43:920][896]LogContentBrowser: Attempting asset rename: NewMaterial -> farolas
+[2026.01.10-20.20.43:948][896]LogContentBrowser: End creating deferred item NewMaterial
+[2026.01.10-20.20.44:868][951]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/farolas.farolas
+[2026.01.10-20.20.44:871][951]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.01.10-20.20.45:225][951]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.10-20.20.45:225][951]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.20.45:225][951]MaterialEditorStats: Shader Count: 0
+[2026.01.10-20.20.45:225][951]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.20.46:891][ 53]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.10-20.20.46:891][ 53]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.10-20.20.46:891][ 53]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.20.46:891][ 53]MaterialEditorStats: Shader Count: 2
+[2026.01.10-20.20.46:891][ 53]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.20.47:298][ 76]MaterialEditorStats: Base pass shader: 164 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.10-20.20.47:298][ 76]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.10-20.20.47:298][ 76]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.10-20.20.47:298][ 76]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.20.47:298][ 76]MaterialEditorStats: Shader Count: 4
+[2026.01.10-20.20.47:298][ 76]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.20.47:332][ 78]LogPSOHitching: Encountered 200 PSO creation hitches so far (99 graphics, 101 compute). 0 of them were precached.
+[2026.01.10-20.20.49:829][172]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.10-20.20.54:910][172]LogSlate: Window 'Selector de color' being destroyed
+[2026.01.10-20.20.54:940][172]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.10-20.20.54:940][172]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.20.54:940][172]MaterialEditorStats: Shader Count: 0
+[2026.01.10-20.20.54:940][172]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.20.54:948][172]LogAutomationController: Ignoring very large delta of 6.05 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.01.10-20.20.55:442][181]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.10-20.20.55:442][181]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.10-20.20.55:442][181]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.20.55:442][181]MaterialEditorStats: Shader Count: 3
+[2026.01.10-20.20.55:442][181]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.20.55:730][199]MaterialEditorStats: Base pass shader: 169 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.10-20.20.55:730][199]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.10-20.20.55:730][199]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.10-20.20.55:730][199]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.20.55:730][199]MaterialEditorStats: Shader Count: 4
+[2026.01.10-20.20.55:730][199]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.21.03:557][559]LogSlate: Window 'Selector de color' being destroyed
+[2026.01.10-20.21.03:566][559]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.10-20.21.03:566][559]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.21.03:566][559]MaterialEditorStats: Shader Count: 0
+[2026.01.10-20.21.03:566][559]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.21.03:575][559]LogAutomationController: Ignoring very large delta of 2.19 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.01.10-20.21.04:483][606]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.10-20.21.04:483][606]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.10-20.21.04:483][606]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.21.04:483][606]MaterialEditorStats: Shader Count: 2
+[2026.01.10-20.21.04:483][606]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.21.04:893][632]MaterialEditorStats: Base pass shader: 169 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.10-20.21.04:893][632]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.10-20.21.04:893][632]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.10-20.21.04:893][632]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.21.04:893][632]MaterialEditorStats: Shader Count: 4
+[2026.01.10-20.21.04:893][632]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.21.11:237][ 38]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.10-20.21.11:237][ 38]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.21.11:237][ 38]MaterialEditorStats: Shader Count: 0
+[2026.01.10-20.21.11:237][ 38]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.21.12:111][ 92]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.10-20.21.12:111][ 92]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.10-20.21.12:111][ 92]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.21.12:111][ 92]MaterialEditorStats: Shader Count: 3
+[2026.01.10-20.21.12:111][ 92]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.21.12:310][105]MaterialEditorStats: Base pass shader: 169 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.10-20.21.12:310][105]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.10-20.21.12:310][105]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.10-20.21.12:310][105]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.21.12:310][105]MaterialEditorStats: Shader Count: 4
+[2026.01.10-20.21.12:310][105]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.21.17:697][298]LogSlate: Window 'Selector de color' being destroyed
+[2026.01.10-20.21.17:724][298]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.10-20.21.17:724][298]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.21.17:724][298]MaterialEditorStats: Shader Count: 0
+[2026.01.10-20.21.17:724][298]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.21.17:732][298]LogAutomationController: Ignoring very large delta of 2.47 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.01.10-20.21.18:541][339]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.10-20.21.18:541][339]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.10-20.21.18:541][339]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.21.18:541][339]MaterialEditorStats: Shader Count: 3
+[2026.01.10-20.21.18:541][339]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.21.18:831][357]MaterialEditorStats: Base pass shader: 167 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.10-20.21.18:831][357]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.10-20.21.18:831][357]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.10-20.21.18:831][357]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.21.18:831][357]MaterialEditorStats: Shader Count: 4
+[2026.01.10-20.21.18:831][357]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.21.23:613][482]LogSlate: Window 'Mensaje' being destroyed
+[2026.01.10-20.21.23:619][482]Message dialog closed, result: Yes, title: Mensaje, text: ¿Desea aplicar los cambios del material modificado al material original?
+/Game/farolas.farolas
+(Al seleccionar «No», se perderán todos los cambios).
+[2026.01.10-20.21.25:853][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.01.10-20.21.27:210][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.01.10-20.21.27:232][482]LogSlate: Window 'farolas' being destroyed
+[2026.01.10-20.21.27:235][482]LogSlate: Window 'farolas' being destroyed
+[2026.01.10-20.21.27:338][482]LogAutomationController: Ignoring very large delta of 6.59 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.01.10-20.21.29:785][655]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.01.10-20.21.39:016][345]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/farolas.farolas
+[2026.01.10-20.21.39:020][345]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.01.10-20.21.39:330][345]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.10-20.21.39:330][345]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.21.39:330][345]MaterialEditorStats: Shader Count: 0
+[2026.01.10-20.21.39:330][345]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.21.39:402][347]MaterialEditorStats: Base pass shader: 167 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.10-20.21.39:402][347]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.10-20.21.39:402][347]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.10-20.21.39:402][347]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.21.39:402][347]MaterialEditorStats: Shader Count: 5
+[2026.01.10-20.21.39:402][347]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.21.43:451][454]LogSlate: Window 'Selector de color' being destroyed
+[2026.01.10-20.21.43:477][454]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.10-20.21.43:477][454]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.21.43:477][454]MaterialEditorStats: Shader Count: 0
+[2026.01.10-20.21.43:477][454]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.21.43:485][454]LogAutomationController: Ignoring very large delta of 2.43 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.01.10-20.21.44:308][497]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.10-20.21.44:308][497]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.10-20.21.44:308][497]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.21.44:308][497]MaterialEditorStats: Shader Count: 2
+[2026.01.10-20.21.44:308][497]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.21.44:616][517]MaterialEditorStats: Base pass shader: 169 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.10-20.21.44:616][517]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.10-20.21.44:616][517]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.10-20.21.44:616][517]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.21.44:616][517]MaterialEditorStats: Shader Count: 4
+[2026.01.10-20.21.44:616][517]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.21.51:748][769]LogSlate: Window 'Selector de color' being destroyed
+[2026.01.10-20.21.51:776][769]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.10-20.21.51:776][769]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.21.51:776][769]MaterialEditorStats: Shader Count: 0
+[2026.01.10-20.21.51:776][769]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.21.51:785][769]LogAutomationController: Ignoring very large delta of 3.35 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.01.10-20.21.52:503][804]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.10-20.21.52:503][804]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.10-20.21.52:503][804]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.21.52:503][804]MaterialEditorStats: Shader Count: 2
+[2026.01.10-20.21.52:503][804]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.21.52:914][831]MaterialEditorStats: Base pass shader: 169 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.10-20.21.52:914][831]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.10-20.21.52:914][831]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.10-20.21.52:914][831]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.21.52:914][831]MaterialEditorStats: Shader Count: 4
+[2026.01.10-20.21.52:914][831]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.21.55:985][899]LogSlate: Window 'Selector de color' being destroyed
+[2026.01.10-20.21.56:011][899]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.10-20.21.56:011][899]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.21.56:011][899]MaterialEditorStats: Shader Count: 0
+[2026.01.10-20.21.56:011][899]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.21.56:025][900]LogAutomationController: Ignoring very large delta of 2.05 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.01.10-20.21.56:900][945]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.10-20.21.56:900][945]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.10-20.21.56:900][945]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.21.56:900][945]MaterialEditorStats: Shader Count: 2
+[2026.01.10-20.21.56:900][945]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.21.57:206][960]MaterialEditorStats: Base pass shader: 169 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.10-20.21.57:206][960]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.10-20.21.57:206][960]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.10-20.21.57:206][960]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.21.57:206][960]MaterialEditorStats: Shader Count: 4
+[2026.01.10-20.21.57:206][960]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: ================================================
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: Total job queries 293, among them cache hits 61 (20.82%), DDC hits 143 (48.81%), Duplicates 7 (2.39%)
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: Tracking 225 distinct input hashes that result in 189 distinct outputs (84.00%)
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: RAM used: 132,15 KiB of 819,20 MiB budget. Usage: 0.02%
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: Shaders Compiled: 82
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: Jobs assigned 82, completed 82 (100%)
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: Average time worker was idle: 1048.04 s
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 2.56 s
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: Job execution time: average 1.54 s, max 4.01 s
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: Job life time (pending + execution): average 1.68 s, max 4.11
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: Shader code size: average 7,464 KiB, min 2,691 KiB, max 12,18 KiB
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 30.11 s
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: Jobs were issued in 82 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: Average processing rate: 2.72 jobs/sec
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: Total thread time: 73,151 s
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: Total thread preprocess time: 4,404 s
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: Percentage time preprocessing: 6.02%
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: Effective parallelization: 2.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   14 times, average 1.62 sec, max 2.50 sec, min 1.11 sec)
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   16 times, average 0.98 sec, max 1.57 sec, min 0.64 sec)
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.96 sec, max 0.96 sec, min 0.96 sec)
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 31.05% of total time (compiled   14 times, average 1.62 sec, max 2.50 sec, min 1.11 sec)
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.38% of total time (compiled   16 times, average 0.98 sec, max 1.57 sec, min 0.64 sec)
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.56% of total time (compiled   16 times, average 0.67 sec, max 1.05 sec, min 0.34 sec)
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display:                                                 FLumenCardPS - 11.78% of total time (compiled   12 times, average 0.72 sec, max 1.13 sec, min 0.38 sec)
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.80% of total time (compiled   12 times, average 0.66 sec, max 1.05 sec, min 0.33 sec)
+[2026.01.10-20.22.00:564][180]LogShaderCompilers: Display: === Material stats ===
+[2026.01.10-20.22.00:565][180]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.10-20.22.00:565][180]LogShaderCompilers: Display: Materials Translated:    153
+[2026.01.10-20.22.00:565][180]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2026.01.10-20.22.00:565][180]LogShaderCompilers: Display: Material Translation Only: 0.05 s (31%)
+[2026.01.10-20.22.00:565][180]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.01.10-20.22.00:565][180]LogShaderCompilers: Display: Material Cache Hits: 26 (17%)
+[2026.01.10-20.22.00:565][180]LogShaderCompilers: Display: ================================================
+[2026.01.10-20.22.03:024][337]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.10-20.22.03:024][337]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.22.03:024][337]MaterialEditorStats: Shader Count: 0
+[2026.01.10-20.22.03:024][337]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.22.03:754][382]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.10-20.22.03:754][382]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.10-20.22.03:754][382]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.22.03:754][382]MaterialEditorStats: Shader Count: 2
+[2026.01.10-20.22.03:754][382]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.22.04:060][403]MaterialEditorStats: Base pass shader: 169 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.10-20.22.04:060][403]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.10-20.22.04:060][403]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.10-20.22.04:060][403]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.22.04:060][403]MaterialEditorStats: Shader Count: 4
+[2026.01.10-20.22.04:060][403]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.22.06:557][567]LogMaterialEditor: Saving and Compiling material farolas
+[2026.01.10-20.22.06:886][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.01.10-20.22.08:176][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.01.10-20.22.08:187][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.10-20.22.08:214][567]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/farolas] ([1] browsable assets)...
+[2026.01.10-20.22.08:307][567]OBJ SavePackage:     Rendered thumbnail for [Material /Game/farolas.farolas]
+[2026.01.10-20.22.08:307][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/farolas]
+[2026.01.10-20.22.08:307][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/farolas" FILE="../../../../../dise-oexperimental/MyProject/Content/farolas.uasset" SILENT=true
+[2026.01.10-20.22.08:367][567]LogSavePackage: Moving output files for package: /Game/farolas
+[2026.01.10-20.22.08:367][567]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/farolasE6FDCEDB4619546873F49F857F5FA183.tmp' to '../../../../../dise-oexperimental/MyProject/Content/farolas.uasset'
+[2026.01.10-20.22.08:379][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 191.128 ms (total: 14.2 sec)
+[2026.01.10-20.22.08:437][567]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.10-20.22.08:437][567]LogContentValidation: Enabled validators:
+[2026.01.10-20.22.08:437][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.10-20.22.08:437][567]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.10-20.22.08:437][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.10-20.22.08:437][567]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.10-20.22.08:437][567]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.10-20.22.08:437][567]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.10-20.22.08:437][567]AssetCheck: /Game/farolas Validando recurso
+[2026.01.10-20.22.09:178][603]LogSlate: Window 'farolas' being destroyed
+[2026.01.10-20.22.09:199][603]LogSlate: Window 'farolas' being destroyed
+[2026.01.10-20.23.37:448][846]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/farolas.farolas
+[2026.01.10-20.23.37:450][846]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.01.10-20.23.37:790][846]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.10-20.23.37:790][846]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.23.37:790][846]MaterialEditorStats: Shader Count: 0
+[2026.01.10-20.23.37:790][846]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.23.37:871][848]MaterialEditorStats: Base pass shader: 169 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.10-20.23.37:871][848]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.10-20.23.37:871][848]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.10-20.23.37:871][848]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.10-20.23.37:871][848]MaterialEditorStats: Shader Count: 5
+[2026.01.10-20.23.37:871][848]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.10-20.23.39:482][948]LogSlate: Window 'farolas' being destroyed
+[2026.01.10-20.23.39:500][948]LogSlate: Window 'farolas' being destroyed
+[2026.01.10-20.24.11:111][225]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11115.868164
+[2026.01.10-20.24.11:258][237]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.10-20.24.11:258][237]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11116.000977, Update Interval: 341.778625
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: ================================================
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Total job queries 324, among them cache hits 82 (25.31%), DDC hits 143 (44.14%), Duplicates 7 (2.16%)
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Tracking 235 distinct input hashes that result in 194 distinct outputs (82.55%)
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: RAM used: 134,01 KiB of 819,20 MiB budget. Usage: 0.02%
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Shaders Compiled: 92
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Jobs assigned 92, completed 92 (100%)
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Average time worker was idle: 922.31 s
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 2.56 s
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Job execution time: average 1.45 s, max 4.01 s
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Job life time (pending + execution): average 1.58 s, max 4.11
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Shader code size: average 7,516 KiB, min 2,691 KiB, max 12,18 KiB
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 32.70 s
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Jobs were issued in 92 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Average processing rate: 2.81 jobs/sec
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Total thread time: 80,279 s
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Total thread preprocess time: 4,878 s
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Percentage time preprocessing: 6.08%
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Effective parallelization: 2.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   15 times, average 1.61 sec, max 2.50 sec, min 1.11 sec)
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 0.98 sec, max 0.99 sec, min 0.96 sec)
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   17 times, average 0.97 sec, max 1.57 sec, min 0.64 sec)
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 0.81 sec, max 0.82 sec, min 0.79 sec)
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 30.00% of total time (compiled   15 times, average 1.61 sec, max 2.50 sec, min 1.11 sec)
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.56% of total time (compiled   17 times, average 0.97 sec, max 1.57 sec, min 0.64 sec)
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.00% of total time (compiled   17 times, average 0.66 sec, max 1.05 sec, min 0.34 sec)
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display:                                                 FLumenCardPS - 11.54% of total time (compiled   13 times, average 0.71 sec, max 1.13 sec, min 0.38 sec)
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.56% of total time (compiled   13 times, average 0.65 sec, max 1.05 sec, min 0.33 sec)
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: === Material stats ===
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Materials Translated:    159
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Material Translation Only: 0.05 s (32%)
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: Material Cache Hits: 26 (16%)
+[2026.01.10-20.25.00:575][492]LogShaderCompilers: Display: ================================================
+[2026.01.10-20.25.01:870][604]Cmd: TRANSACTION UNDO
+[2026.01.10-20.25.01:870][604]LogEditorTransaction: Undo Colocar objetos
+[2026.01.10-20.25.17:852][790]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.01.10-20.25.17:858][790]LogContentBundle: [FirstPersonMap(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2026.01.10-20.25.17:858][790]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2026.01.10-20.25.17:950][790]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 91.657 ms (total: 1.59 sec)
+[2026.01.10-20.25.17:950][790]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.10-20.25.17:950][790]LogPlayLevel: Display: Creating online subsystem for client :Context_29
+[2026.01.10-20.25.17:953][790]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2026.01.10-20.25.17:990][791]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.01.10-20.25.18:146][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.158071s)
+[2026.01.10-20.25.18:146][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.158119s)
+[2026.01.10-20.25.18:303][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.01.10-20.25.18:307][791]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.01.10-20.25.18:309][791]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.10-20.25.18:309][791]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.10-20.25.18:309][791]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.10-20.25.18:309][791]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.10-20.25.18:368][791]LogWorldPartition: Display: WorldPartition initialize took 58.692 ms (total: 1.24 sec)
+[2026.01.10-20.25.18:368][791]LogPlayLevel: PIE: World Init took: (0.061127s)
+[2026.01.10-20.25.18:369][791]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.01.10-20.25.18:369][791]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.10-20.25.18:369][791]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.10-20.25.18:369][791]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.10-20.25.18:369][791]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.10-20.25.18:369][791]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.01.10-20.25.18:369][791]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.10-20.25.18:369][791]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.01.10-20.25.18:369][791]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.10-20.25.18:369][791]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.10-20.25.18:369][791]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.10-20.25.18:369][791]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.10-20.25.18:371][791]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.10-20.25.18:396][791]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.01.10-20.25.18:396][791]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.10-20.25.18:396][791]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.10-20.25.18:396][791]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.10-20.25.18:397][791]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2026.01.10-20.25.18:397][791]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2026.01.10-20.25.18:399][791]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.01.10-20.25.18:399][791]LogInit: FAudioDevice initialized with ID 24.
+[2026.01.10-20.25.18:399][791]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2026.01.10-20.25.18:399][791]LogAudio: Display: Audio Device (ID: 24) registered with world 'FirstPersonMap'.
+[2026.01.10-20.25.18:400][791]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.01.10-20.25.18:402][791]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.10-20.25.18:504][791]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.01.10-21.25.18
+[2026.01.10-20.25.18:505][791]LogWorld: Bringing up level for play took: 0.102675
+[2026.01.10-20.25.18:513][791]PIE: El servidor ha iniciado sesión
+[2026.01.10-20.25.18:514][791]PIE: Tiempo de inicio total de la reproducción en el editor de 0,655 segundos.
+[2026.01.10-20.25.26:763][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.10-20.25.26:763][349]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.01.10-20.25.26:765][349]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.10-20.25.26:791][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.10-20.25.26:791][349]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.01.10-20.25.26:795][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.10-20.25.26:801][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.10-20.25.27:017][349]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.10-20.25.27:018][349]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.01.10-20.25.27:018][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2026.01.10-20.25.27:019][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2026.01.10-20.25.27:023][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.10-20.25.27:048][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.01.10-20.25.27:143][350]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2026.01.10-20.25.41:850][447]Cmd: SELECT NONE
+[2026.01.10-20.25.43:489][550]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.01.10-20.25.43:497][550]LogContentBundle: [FirstPersonMap(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2026.01.10-20.25.43:497][550]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2026.01.10-20.25.43:596][550]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 98.323 ms (total: 1.69 sec)
+[2026.01.10-20.25.43:596][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.10-20.25.43:632][550]LogPlayLevel: Display: Creating online subsystem for client :Context_30
+[2026.01.10-20.25.43:634][550]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2026.01.10-20.25.43:669][551]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.01.10-20.25.43:838][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.169797s)
+[2026.01.10-20.25.43:838][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.169848s)
+[2026.01.10-20.25.43:992][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.01.10-20.25.43:995][551]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.01.10-20.25.43:997][551]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.10-20.25.43:997][551]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.10-20.25.43:997][551]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.10-20.25.43:997][551]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.10-20.25.44:061][551]LogWorldPartition: Display: WorldPartition initialize took 63.394 ms (total: 1.31 sec)
+[2026.01.10-20.25.44:061][551]LogPlayLevel: PIE: World Init took: (0.065988s)
+[2026.01.10-20.25.44:062][551]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2026.01.10-20.25.44:062][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.10-20.25.44:062][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.10-20.25.44:062][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.10-20.25.44:062][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.10-20.25.44:062][551]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.01.10-20.25.44:062][551]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.10-20.25.44:062][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.01.10-20.25.44:062][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.10-20.25.44:062][551]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.10-20.25.44:062][551]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.10-20.25.44:062][551]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.10-20.25.44:064][551]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.10-20.25.44:092][551]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.01.10-20.25.44:092][551]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.10-20.25.44:092][551]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.10-20.25.44:092][551]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.10-20.25.44:093][551]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2026.01.10-20.25.44:093][551]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2026.01.10-20.25.44:095][551]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2026.01.10-20.25.44:095][551]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2026.01.10-20.25.44:095][551]LogInit: FAudioDevice initialized with ID 25.
+[2026.01.10-20.25.44:095][551]LogAudio: Display: Audio Device (ID: 25) registered with world 'FirstPersonMap'.
+[2026.01.10-20.25.44:095][551]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2026.01.10-20.25.44:098][551]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.10-20.25.44:208][551]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.01.10-21.25.44
+[2026.01.10-20.25.44:211][551]LogWorld: Bringing up level for play took: 0.112046
+[2026.01.10-20.25.44:217][551]PIE: El servidor ha iniciado sesión
+[2026.01.10-20.25.44:218][551]PIE: Tiempo de inicio total de la reproducción en el editor de 0,722 segundos.
+[2026.01.10-20.25.48:173][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.10-20.25.48:173][824]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.01.10-20.25.48:175][824]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.10-20.25.48:204][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.10-20.25.48:204][824]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.01.10-20.25.48:208][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.10-20.25.48:214][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.10-20.25.48:409][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.10-20.25.48:419][824]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2026.01.10-20.25.48:419][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2026.01.10-20.25.48:421][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2026.01.10-20.25.48:452][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.01.10-20.25.48:507][825]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2026.01.10-20.26.13:725][413]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.10-20.26.13:933][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.01.10-20.26.14:093][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.01.10-20.26.14:259][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.01.10-20.26.14:267][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5
+[2026.01.10-20.26.14:267][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/V4ALNTJYOVWM8BU452CKV5182ACD3A4C03E5D754088CAA3A2EF988.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset'
+[2026.01.10-20.26.14:271][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/03/9VBWRBO2L7DPAGWZYMC0LP
+[2026.01.10-20.26.14:271][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/9VBWRBO2L7DPAGWZYMC0LP8F9C095A4432BBF56E6D40A0AD5C73B2.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/03/9VBWRBO2L7DPAGWZYMC0LP.uasset'
+[2026.01.10-20.26.14:276][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/T5/UFHA21NK423GYMHCIHJYJZ
+[2026.01.10-20.26.14:277][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/UFHA21NK423GYMHCIHJYJZ9772B0B94A194B3663B386B0A4CD659B.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/T5/UFHA21NK423GYMHCIHJYJZ.uasset'
+[2026.01.10-20.26.14:281][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/NB/5AFTAFVG3DKVDYYOVWY972
+[2026.01.10-20.26.14:282][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/5AFTAFVG3DKVDYYOVWY9724BD223FB4073D9187B6AAF948E5E6A56.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/NB/5AFTAFVG3DKVDYYOVWY972.uasset'
+[2026.01.10-20.26.14:286][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/3F/RPZNU7UEF3EB53DYPGEKVX
+[2026.01.10-20.26.14:287][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/RPZNU7UEF3EB53DYPGEKVXFC386DD44FA36560FF456A9D319833D5.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/3F/RPZNU7UEF3EB53DYPGEKVX.uasset'
+[2026.01.10-20.26.14:289][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/2K/IPP08VK46JS8XLNHEQUCRZ
+[2026.01.10-20.26.14:289][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/IPP08VK46JS8XLNHEQUCRZB3E013DD411BBBA9AD2512B482A14558.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/2K/IPP08VK46JS8XLNHEQUCRZ.uasset'
+[2026.01.10-20.26.14:294][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/4T/XJW2FPUU2UELGLIKUE8SGO
+[2026.01.10-20.26.14:294][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/XJW2FPUU2UELGLIKUE8SGOEC04F0AB4885801AFA745EBA354A6A5D.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/4T/XJW2FPUU2UELGLIKUE8SGO.uasset'
+[2026.01.10-20.26.14:297][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/JG/IGN2KDK2DAXK2CEJG2PZAO
+[2026.01.10-20.26.14:297][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/IGN2KDK2DAXK2CEJG2PZAO245603734599268F641AE38263CF8811.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/JG/IGN2KDK2DAXK2CEJG2PZAO.uasset'
+[2026.01.10-20.26.14:301][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/O3/C555KYAB62P1QXLDJIAIW6
+[2026.01.10-20.26.14:301][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/C555KYAB62P1QXLDJIAIW62F94787943AFB29ADB20CA99F655CCAA.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/O3/C555KYAB62P1QXLDJIAIW6.uasset'
+[2026.01.10-20.26.14:304][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YA/C58DMYYI0D4ZB9LRK85J49
+[2026.01.10-20.26.14:304][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/C58DMYYI0D4ZB9LRK85J499D4CEFA944E01E51E6421F874E3EBBB8.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YA/C58DMYYI0D4ZB9LRK85J49.uasset'
+[2026.01.10-20.26.14:308][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/UT/C5AFK9LYSCEXJ1QK5HSIF8
+[2026.01.10-20.26.14:308][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/C5AFK9LYSCEXJ1QK5HSIF82BF20C064B34F3F522C8CDA84A544572.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/UT/C5AFK9LYSCEXJ1QK5HSIF8.uasset'
+[2026.01.10-20.26.14:312][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/2R/XX36LZ0W181A32R6BYAT8G
+[2026.01.10-20.26.14:312][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/XX36LZ0W181A32R6BYAT8GB340ABC64F5051A3C664DBBD6137B6B5.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/2R/XX36LZ0W181A32R6BYAT8G.uasset'
+[2026.01.10-20.26.14:315][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/KF/UQW7UHAVDR0CNHRVJG2LEG
+[2026.01.10-20.26.14:315][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/UQW7UHAVDR0CNHRVJG2LEG9D34004140C897068970ACB49FDCCBC8.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/KF/UQW7UHAVDR0CNHRVJG2LEG.uasset'
+[2026.01.10-20.26.14:318][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/4F/3XXRMQIABX6XHTHKH75H7C
+[2026.01.10-20.26.14:319][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/3XXRMQIABX6XHTHKH75H7C7258B5174397784826E32B8D280C2AD0.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/4F/3XXRMQIABX6XHTHKH75H7C.uasset'
+[2026.01.10-20.26.14:322][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/G7/RF3WU4RMJJCONINQB68ELF
+[2026.01.10-20.26.14:322][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/RF3WU4RMJJCONINQB68ELF47C035FC46F267C729C90C8384646B79.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/G7/RF3WU4RMJJCONINQB68ELF.uasset'
+[2026.01.10-20.26.14:326][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/P2/Z9WUM4A8QDT1WDUALRDSOI
+[2026.01.10-20.26.14:326][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/Z9WUM4A8QDT1WDUALRDSOI4CF25ACA485DD191A286868DED3D2A5F.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/P2/Z9WUM4A8QDT1WDUALRDSOI.uasset'
+[2026.01.10-20.26.14:329][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/M6/YVS7HEZFB3C1EDBTWD7GRM
+[2026.01.10-20.26.14:329][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/YVS7HEZFB3C1EDBTWD7GRM723A427744C4FEEC976D6F9EFB0FD5A8.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/M6/YVS7HEZFB3C1EDBTWD7GRM.uasset'
+[2026.01.10-20.26.14:333][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7D/TCWUPV6XNYWG06WJY4Y50D
+[2026.01.10-20.26.14:333][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/TCWUPV6XNYWG06WJY4Y50DB57B0ECD4D1A1288FACBBAB772D62858.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7D/TCWUPV6XNYWG06WJY4Y50D.uasset'
+[2026.01.10-20.26.14:337][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/FN/THHPKUP1MOTZ1ZZSMHQZ0G
+[2026.01.10-20.26.14:338][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/THHPKUP1MOTZ1ZZSMHQZ0GC365B1654D2523726AA094BCBBEEA049.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/FN/THHPKUP1MOTZ1ZZSMHQZ0G.uasset'
+[2026.01.10-20.26.14:342][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/W9/SCE8QXU2G7EW1ZDDEPILKU
+[2026.01.10-20.26.14:343][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/SCE8QXU2G7EW1ZDDEPILKU49F303B54B1749CE972C5FAC0D12D9FA.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/W9/SCE8QXU2G7EW1ZDDEPILKU.uasset'
+[2026.01.10-20.26.14:347][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/LX/AMBEGU6B8XQISCMRBXD6DT
+[2026.01.10-20.26.14:349][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/AMBEGU6B8XQISCMRBXD6DTB164EAEF4DBFAD67CF1F5996DF2EFB7C.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/LX/AMBEGU6B8XQISCMRBXD6DT.uasset'
+[2026.01.10-20.26.14:352][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/Z2/1ZMITVQJSSW61BMLWZUBVS
+[2026.01.10-20.26.14:352][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/1ZMITVQJSSW61BMLWZUBVS209486FC4338953551FA258367B4CA61.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/Z2/1ZMITVQJSSW61BMLWZUBVS.uasset'
+[2026.01.10-20.26.14:357][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/6S/F6JOWDFQTM0J4ZH91T4E0S
+[2026.01.10-20.26.14:357][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/F6JOWDFQTM0J4ZH91T4E0S6B4BDD364B13227327ED97B5C3C29394.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/6S/F6JOWDFQTM0J4ZH91T4E0S.uasset'
+[2026.01.10-20.26.14:361][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/GV/SB6L6PN2Z6U3HV3IA8QJM0
+[2026.01.10-20.26.14:362][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/SB6L6PN2Z6U3HV3IA8QJM0391180054D9BB78B4788B2B58A9AD537.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/GV/SB6L6PN2Z6U3HV3IA8QJM0.uasset'
+[2026.01.10-20.26.14:365][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/YE/IT01RSOGN3D8EF0YE5J9T0
+[2026.01.10-20.26.14:365][413]LogSavePackage: Moving '../../../../../dise-oexperimental/MyProject/Saved/IT01RSOGN3D8EF0YE5J9T07B24071C48A4C2D7F82CCF9C34C13045.tmp' to '../../../../../dise-oexperimental/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/YE/IT01RSOGN3D8EF0YE5J9T0.uasset'
+[2026.01.10-20.26.14:380][413]LogFileHelpers: InternalPromptForCheckoutAndSave took 654.684 ms (total: 14.8 sec)
+[2026.01.10-20.26.14:433][413]LogContentValidation: Display: Starting to validate 25 assets
+[2026.01.10-20.26.14:433][413]LogContentValidation: Enabled validators:
+[2026.01.10-20.26.14:433][413]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.10-20.26.14:433][413]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.10-20.26.14:433][413]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.10-20.26.14:433][413]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.10-20.26.14:433][413]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.10-20.26.14:433][413]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.10-20.26.14:436][413]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validando recurso
